@@ -1,7 +1,9 @@
 import os
 import json, codecs, time
+import pathlib
 
-dataDir = "src/data/"
+folder = pathlib.Path(__file__).parent.resolve()
+dataDir = f"{folder}/src/data/"
 bibFile = "bib/references.bib"
 generatedDir = dataDir + "generated/"
 bibJsFile = generatedDir + "bib.js"
