@@ -1,4 +1,14 @@
-define({ entries : {
+﻿define({ entries : {
+    "PATAT18-ITC19": {
+        "author": "Tom\\'a\\v{s} M\\\"uller and Hana Rudov\\'{a} and Zuzana M\\\"ullerov\\'a",
+        "booktitle": "\"Proceedings of the 12th International Conference on the Practice and Theory of Automated Timetabling (PATAT-2018)\",",
+        "editor": "Burke, Edmund K. and Di Gaspero, Luca and McCollum, Barry and Musliu, Nysret and \\\"Ozcan, Ender",
+        "keywords": "University course timetabling, Competition, Real-world problems",
+        "pages": "\"5--31\",",
+        "title": "\"University course timetabling and International Timetabling Competition 2019\",",
+        "type": "INPROCEEDINGS",
+        "year": "2018"
+    },
     "Strnad08022007": {
         "abstract": " In the paper, we present a new architecture and implementation of a multi-agent system for university timetable generation. Agents as representatives of individual courses have the task of allocating the necessary human and technical resources through negotiation. We define the negotiation protocol and describe autonomous decisions of agents within the prescribed framework. The advantages of the multi-agent approach are a direct resolution of conflicts, strategic versatility of negotiation, and natural representation of some real-life problems.",
         "author": "Damjan Strnad and Nikola Guid and",
@@ -14,6 +24,22 @@ define({ entries : {
         "volume": "21",
         "year": "2007"
     },
+    "bassenReinforcementLearningAdaptive2020": {
+        "address": "Honolulu HI USA",
+        "annotation": "TLDR: This paper demonstrates the first RL model to schedule educational activities in real time for a large online course through active learning, and produces similar learning gains to a self-directed condition using fewer educational activities and with lower dropout rates.",
+        "author": "Bassen, Jonathan and Balaji, Bharathan and Schaarschmidt, Michael and Thille, Candace and Painter, Jay and Zimmaro, Dawn and Games, Alex and Fast, Ethan and Mitchell, John C.",
+        "booktitle": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "doi": "10.1145/3313831.3376518",
+        "isbn": "978-1-4503-6708-0",
+        "langid": "english",
+        "month": "apr,",
+        "pages": "1--12",
+        "publisher": "ACM",
+        "title": "Reinforcement Learning for the Adaptive Scheduling of Educational Activities",
+        "type": "inproceedings",
+        "urldate": "2025-05-06",
+        "year": "2020"
+    },
     "ceschiaEducationalTimetablingProblems2023": {
         "abstract": "We propose a survey of the research contributions on the field of Educational Timetabling with a specific focus on \"standard\" formulations and the corresponding benchmark instances. We identify six of such formulations and we discuss their features, pointing out their relevance and usability. Other available formulations and datasets are also reviewed and briefly discussed. Subsequently, we report the main state-of-the-art results on the selected benchmarks, in terms of solution quality (upper and lower bounds), search techniques, running times, statistical distributions, and other side settings.",
         "archiveprefix": "arXiv",
@@ -22,7 +48,7 @@ define({ entries : {
         "eprint": "2201.07525",
         "issn": "03772217",
         "journal": "European Journal of Operational Research",
-        "keywords": "Computer Science - Artificial Intelligence,Computer Science - Discrete Mathematics",
+        "keywords": "Computer Science - Artificial Intelligence, Computer Science - Discrete Mathematics",
         "month": "jul,",
         "number": "1",
         "pages": "1--18",
@@ -102,6 +128,39 @@ define({ entries : {
         "title": "Real-World University Course Timetabling at the International Timetabling Competition 2019",
         "type": "article",
         "urldate": "2025-04-24",
+        "year": "2024"
+    },
+    "parkScheduleNetLearnSolve2021": {
+        "abstract": "We propose ScheduleNet, a RL-based real-time scheduler, that can solve various types of multi-agent scheduling problems. We formulate these problems as a semi-MDP with episodic reward (makespan) and learn ScheduleNet, a decentralized decision-making policy that can effectively coordinate multiple agents to complete tasks. The decision making procedure of ScheduleNet includes: (1) representing the state of a scheduling problem with the agent-task graph, (2) extracting node embeddings for agent and tasks nodes, the important relational information among agents and tasks, by employing the type-aware graph attention (TGA), and (3) computing the assignment probability with the computed node embeddings. We validate the effectiveness of ScheduleNet as a general learning-based scheduler for solving various types of multi-agent scheduling tasks, including multiple salesman traveling problem (mTSP) and job shop scheduling problem (JSP).",
+        "archiveprefix": "arXiv",
+        "author": "Park, Junyoung and Bakhtiyar, Sanjar and Park, Jinkyoo",
+        "doi": "10.48550/arXiv.2106.03051",
+        "eprint": "2106.03051",
+        "keywords": "Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Computer Science - Multiagent Systems,Computer Science - Systems and Control,Electrical Engineering and Systems Science - Systems and Control",
+        "month": "jun,",
+        "number": "arXiv:2106.03051",
+        "primaryclass": "cs",
+        "publisher": "arXiv",
+        "shorttitle": "ScheduleNet",
+        "title": "ScheduleNet: Learn to Solve Multi-Agent Scheduling Problems with Reinforcement Learning",
+        "type": "misc",
+        "urldate": "2025-05-06",
+        "year": "2021"
+    },
+    "xiaoDynamicUniversityCourse2024": {
+        "abstract": "University Course Timetabling Problem (UCTP) is a significant resource allocation challenge with NP-hard characteristics. As problem sizes increase, finding an optimal solution becomes increasingly complex. To address this, we propose an automated planning method using Reinforcement Learning (RL), which treats UCTP as a series of dynamic decision-making tasks. The RL agent acts as an automated planner, operating in a simulated environment that reflects the complexity and constraints of a university course. It adapts to changes in the timetable by evaluating the outcomes of its actions, continuously refining its strategy to identify and implement the most effective actions. During the explore phase, the agent tests new strategies using a priority-driven reward system and an experience replay mechanism. This approach replays high-value actions, enhancing solution diversity and reducing the search space. In the exploit phase, the agent leverages its accumulated knowledge to apply proven effective strategies. It also incorporates unbiased external evaluations to avoid local optima and ensure global optimization of its strategy. Extensive testing on multiple real-world datasets shows that our automated planning framework consistently outperforms existing methods in various complex scheduling scenarios. This confirms its effectiveness and practicality in meeting diverse scheduling needs.",
+        "annotation": "TLDR: An automated planning method using Reinforcement Learning (RL), which treats UCTP as a series of dynamic decision-making tasks, which consistently outperforms existing methods in various complex scheduling scenarios and confirms its effectiveness and practicality in meeting diverse scheduling needs.",
+        "author": "Xiao, Yanan and Li, XiangLin and Jiang, Lu and Wang, Pengfei and Wang, Kaidi and Luo, Na",
+        "booktitle": "2024 IEEE International Conference on Data Mining (ICDM)",
+        "doi": "10.1109/ICDM59182.2024.00059",
+        "issn": "2374-8486",
+        "keywords": "Complexity theory,Conferences,course timetable,Data mining,Decision making,Optimization,Planning,Refining,reinforcement learning,Reinforcement learning,Resource management,Testing",
+        "month": "dec,",
+        "pages": "520--529",
+        "shorttitle": "Towards Dynamic University Course Timetabling Problem",
+        "title": "Towards Dynamic University Course Timetabling Problem: An Automated Approach Augmented via Reinforcement Learning",
+        "type": "inproceedings",
+        "urldate": "2025-05-06",
         "year": "2024"
     },
     "zhangEduPlannerLLMBasedMultiAgent2025": {

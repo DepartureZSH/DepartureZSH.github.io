@@ -1,3 +1,61 @@
+@article{Strnad08022007,
+  author = {Damjan Strnad and Nikola Guid and},
+  title = {A Multi-agent System for University Course Timetabling},
+  journal = {Applied Artificial Intelligence},
+  volume = {21},
+  number = {2},
+  pages = {137--153},
+  year = {2007},
+  publisher = {Taylor \& Francis},
+  doi = {10.1080/08839510601147554},
+  URL = {https://doi.org/10.1080/08839510601147554},
+  eprint = {https://doi.org/10.1080/08839510601147554},
+  abstract = { In the paper, we present a new architecture and implementation of a multi-agent system for university timetable generation. Agents as representatives of individual courses have the task of allocating the necessary human and technical resources through negotiation. We define the negotiation protocol and describe autonomous decisions of agents within the prescribed framework. The advantages of the multi-agent approach are a direct resolution of conflicts, strategic versatility of negotiation, and natural representation of some real-life problems. }
+}
+
+@INPROCEEDINGS{PATAT18-ITC19,
+  title = "University course timetabling and International Timetabling Competition 2019",
+  author = {Tom\'a\v{s} M\"uller and Hana Rudov\'{a} and Zuzana M\"ullerov\'a},
+  booktitle = "Proceedings of the 12th International Conference on the Practice and Theory of Automated Timetabling (PATAT-2018)",
+  editor = {Burke, Edmund K. and Di Gaspero, Luca and McCollum, Barry and Musliu, Nysret and \"Ozcan, Ender},
+  year = {2018},
+  keywords = {University course timetabling, Competition, Real-world problems},
+  pages = "5--31",
+}
+
+@inproceedings{bassenReinforcementLearningAdaptive2020,
+  title = {Reinforcement Learning for the Adaptive Scheduling of Educational Activities},
+  booktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},
+  author = {Bassen, Jonathan and Balaji, Bharathan and Schaarschmidt, Michael and Thille, Candace and Painter, Jay and Zimmaro, Dawn and Games, Alex and Fast, Ethan and Mitchell, John C.},
+  year = {2020},
+  month = apr,
+  pages = {1--12},
+  publisher = {ACM},
+  address = {Honolulu HI USA},
+  doi = {10.1145/3313831.3376518},
+  urldate = {2025-05-06},
+  isbn = {978-1-4503-6708-0},
+  langid = {english},
+  annotation = {TLDR: This paper demonstrates the first RL model to schedule educational activities in real time for a large online course through active learning, and produces similar learning gains to a self-directed condition using fewer educational activities and with lower dropout rates.},
+}
+
+@misc{parkScheduleNetLearnSolve2021,
+  title = {ScheduleNet: Learn to Solve Multi-Agent Scheduling Problems with Reinforcement Learning},
+  shorttitle = {ScheduleNet},
+  author = {Park, Junyoung and Bakhtiyar, Sanjar and Park, Jinkyoo},
+  year = {2021},
+  month = jun,
+  number = {arXiv:2106.03051},
+  eprint = {2106.03051},
+  primaryclass = {cs},
+  publisher = {arXiv},
+  doi = {10.48550/arXiv.2106.03051},
+  urldate = {2025-05-06},
+  abstract = {We propose ScheduleNet, a RL-based real-time scheduler, that can solve various types of multi-agent scheduling problems. We formulate these problems as a semi-MDP with episodic reward (makespan) and learn ScheduleNet, a decentralized decision-making policy that can effectively coordinate multiple agents to complete tasks. The decision making procedure of ScheduleNet includes: (1) representing the state of a scheduling problem with the agent-task graph, (2) extracting node embeddings for agent and tasks nodes, the important relational information among agents and tasks, by employing the type-aware graph attention (TGA), and (3) computing the assignment probability with the computed node embeddings. We validate the effectiveness of ScheduleNet as a general learning-based scheduler for solving various types of multi-agent scheduling tasks, including multiple salesman traveling problem (mTSP) and job shop scheduling problem (JSP).},
+  archiveprefix = {arXiv},
+  keywords = {Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Computer Science - Multiagent Systems,Computer Science - Systems and Control,Electrical Engineering and Systems Science - Systems and Control},
+}
+
 @article{mikkelsenParallelizedMatheuristicInternational2022,
   title = {A parallelized matheuristic for the International Timetabling Competition 2019},
   author={Mikkelsen, Rasmus {\O} and Holm, Dennis S},
@@ -33,7 +91,7 @@
   urldate = {2025-04-22},
   abstract = {We propose a survey of the research contributions on the field of Educational Timetabling with a specific focus on "standard" formulations and the corresponding benchmark instances. We identify six of such formulations and we discuss their features, pointing out their relevance and usability. Other available formulations and datasets are also reviewed and briefly discussed. Subsequently, we report the main state-of-the-art results on the selected benchmarks, in terms of solution quality (upper and lower bounds), search techniques, running times, statistical distributions, and other side settings.},
   archiveprefix = {arXiv},
-  keywords = {Computer Science - Artificial Intelligence,Computer Science - Discrete Mathematics},
+  keywords = {Computer Science - Artificial Intelligence, Computer Science - Discrete Mathematics},
 }
 
 @article{dunkeMatheuristicCustomizedMultilevel2023,
@@ -51,6 +109,38 @@
   abstract = {Course timetables are the organizational foundation of a university's educational program. While students and lecturers perceive timetable quality individually according to their preferences, there are also collective criteria derived normatively such as balanced workloads or idle time avoidance. A recent challenge and opportunity in curriculum-based timetabling consists of customizing timetables with respect to individual student preferences and with respect to integrating online courses as part of modern course programs or in reaction to flexibility requirements as posed in pandemic situations. Curricula consisting of (large) lectures and (small) tutorials further open the possibility for optimizing not only the lecture and tutorial plan for all students but also the assignments of individual students to tutorial slots. In this paper, we develop a multi-level planning process for university timetabling: On the tactical level, a lecture and tutorial plan is determined for a set of study programs; on the operational level, individual timetables are generated for each student interlacing the lecture plan through a selection of tutorials from the tutorial plan favoring individual preferences. We utilize this mathematical-programming-based planning process as part of a matheuristic which implements a genetic algorithm in order to improve lecture plans, tutorial plans, and individual timetables so as to find an overall university program with well-balanced timetable performance criteria. Since the evaluation of the fitness function amounts to invoking the entire planning process, we additionally provide a proxy in the form of an artificial neural network metamodel. Computational results exhibit the procedure's capability of generating high quality schedules.},
   langid = {english},
   annotation = {TLDR: This paper develops a multi-level planning process for university timetabling which implements a genetic algorithm in order to improve lecture plans, tutorial plans, and individual timetables so as to find an overall university program with well-balanced timetable performance criteria.},
+}
+
+@article{mullerRealworldUniversityCourse2024,
+  title = {Real-World University Course Timetabling at the International Timetabling Competition 2019},
+  author = {M{\"u}ller, Tom{\'a}{\v s} and Rudov{\'a}, Hana and M{\"u}llerov{\'a}, Zuzana},
+  year = {2024},
+  month = apr,
+  journal = {Journal of Scheduling},
+  pages = {1--21},
+  publisher = {Springer},
+  issn = {1099-1425},
+  doi = {10.1007/s10951-023-00801-w},
+  urldate = {2025-04-24},
+  abstract = {The paper discusses the organization of the International Timetabling Competition (ITC 2019), which intends to motivate further research on complex university course timetabling problems coming from practice. Thanks to the UniTime timetabling system, we have collected a strong set of benchmark instances with diverse characteristics for the competition. The key novelty lies in the combination of student sectioning with standard time and room assignment of particular course events. The paper analyzes the real-world course timetabling problems present in the competition. The characteristics of thirty competition instances are described together with their representative features, which are discussed institution by institution. The existing solvers are described and compared based on their competition, current, and time-limited results whenever available. As of October 2023, the competition website has about 490 registered users from 66 countries worldwide and is kept up to date with new results.},
+  copyright = {2024 The Author(s)},
+  langid = {english},
+}
+
+@inproceedings{xiaoDynamicUniversityCourse2024,
+  title = {Towards Dynamic University Course Timetabling Problem: An Automated Approach Augmented via Reinforcement Learning},
+  shorttitle = {Towards Dynamic University Course Timetabling Problem},
+  booktitle = {2024 IEEE International Conference on Data Mining (ICDM)},
+  author = {Xiao, Yanan and Li, XiangLin and Jiang, Lu and Wang, Pengfei and Wang, Kaidi and Luo, Na},
+  year = {2024},
+  month = dec,
+  pages = {520--529},
+  issn = {2374-8486},
+  doi = {10.1109/ICDM59182.2024.00059},
+  urldate = {2025-05-06},
+  abstract = {University Course Timetabling Problem (UCTP) is a significant resource allocation challenge with NP-hard characteristics. As problem sizes increase, finding an optimal solution becomes increasingly complex. To address this, we propose an automated planning method using Reinforcement Learning (RL), which treats UCTP as a series of dynamic decision-making tasks. The RL agent acts as an automated planner, operating in a simulated environment that reflects the complexity and constraints of a university course. It adapts to changes in the timetable by evaluating the outcomes of its actions, continuously refining its strategy to identify and implement the most effective actions. During the explore phase, the agent tests new strategies using a priority-driven reward system and an experience replay mechanism. This approach replays high-value actions, enhancing solution diversity and reducing the search space. In the exploit phase, the agent leverages its accumulated knowledge to apply proven effective strategies. It also incorporates unbiased external evaluations to avoid local optima and ensure global optimization of its strategy. Extensive testing on multiple real-world datasets shows that our automated planning framework consistently outperforms existing methods in various complex scheduling scenarios. This confirms its effectiveness and practicality in meeting diverse scheduling needs.},
+  keywords = {Complexity theory,Conferences,course timetable,Data mining,Decision making,Optimization,Planning,Refining,reinforcement learning,Reinforcement learning,Resource management,Testing},
+  annotation = {TLDR: An automated planning method using Reinforcement Learning (RL), which treats UCTP as a series of dynamic decision-making tasks, which consistently outperforms existing methods in various complex scheduling scenarios and confirms its effectiveness and practicality in meeting diverse scheduling needs.},
 }
 
 @article{guIntegerProgrammingMachine2025,
@@ -72,37 +162,6 @@
   annotation = {TLDR: This study analyses 95 integer programming-based models developed for solving university timetabling problems, covering relevant research from 1990 to 2023, to provide insights into the evolution of these algorithms and their impact on improving university scheduling.},
 }
 
-@article{mullerRealworldUniversityCourse2024,
-  title = {Real-World University Course Timetabling at the International Timetabling Competition 2019},
-  author = {M{\"u}ller, Tom{\'a}{\v s} and Rudov{\'a}, Hana and M{\"u}llerov{\'a}, Zuzana},
-  year = {2024},
-  month = apr,
-  journal = {Journal of Scheduling},
-  pages = {1--21},
-  publisher = {Springer},
-  issn = {1099-1425},
-  doi = {10.1007/s10951-023-00801-w},
-  urldate = {2025-04-24},
-  abstract = {The paper discusses the organization of the International Timetabling Competition (ITC 2019), which intends to motivate further research on complex university course timetabling problems coming from practice. Thanks to the UniTime timetabling system, we have collected a strong set of benchmark instances with diverse characteristics for the competition. The key novelty lies in the combination of student sectioning with standard time and room assignment of particular course events. The paper analyzes the real-world course timetabling problems present in the competition. The characteristics of thirty competition instances are described together with their representative features, which are discussed institution by institution. The existing solvers are described and compared based on their competition, current, and time-limited results whenever available. As of October 2023, the competition website has about 490 registered users from 66 countries worldwide and is kept up to date with new results.},
-  copyright = {2024 The Author(s)},
-  langid = {english},
-}
-
-@article{Strnad08022007,
-  author = {Damjan Strnad and Nikola Guid and},
-  title = {A Multi-agent System for University Course Timetabling},
-  journal = {Applied Artificial Intelligence},
-  volume = {21},
-  number = {2},
-  pages = {137--153},
-  year = {2007},
-  publisher = {Taylor \& Francis},
-  doi = {10.1080/08839510601147554},
-  URL = {https://doi.org/10.1080/08839510601147554},
-  eprint = {https://doi.org/10.1080/08839510601147554},
-  abstract = { In the paper, we present a new architecture and implementation of a multi-agent system for university timetable generation. Agents as representatives of individual courses have the task of allocating the necessary human and technical resources through negotiation. We define the negotiation protocol and describe autonomous decisions of agents within the prescribed framework. The advantages of the multi-agent approach are a direct resolution of conflicts, strategic versatility of negotiation, and natural representation of some real-life problems. }
-}
-
 @misc{zhangEduPlannerLLMBasedMultiAgent2025,
   title = {EduPlanner: LLM-Based Multi-Agent Systems for Customized and Intelligent Instructional Design},
   shorttitle = {EduPlanner},
@@ -120,4 +179,3 @@
   langid = {american},
   keywords = {Computer Science - Artificial Intelligence},
 }
-
