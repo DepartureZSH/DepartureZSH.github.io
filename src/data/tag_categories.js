@@ -1,12 +1,12 @@
 define({
 	tagCategories: {
-		"Methods": {
+		"methods": {
 			"description": "methods of the paper" 
 		},
-		"Benchmarks": {
+		"benchmarks": {
 			"description": "benchmarks of the paper" 
 		},
-		"Classes": {
+		"classes": {
 			"description": "classifications of the paper" 
 		}
 	}

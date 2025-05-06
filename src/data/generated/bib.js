@@ -7,7 +7,7 @@
         "issn": "1094-6136",
         "issue_date": "Aug 2022",
         "journal": "J. of Scheduling",
-        "keywords": "ITC 2019, International Timetabling Competition 2019, University timetabling, Clique cover, Conflict graph, Mixed integer programming",
+        "keywords": "methods: Conflict graph, methods: Mixed integer programming, benchmarks:ITC2019, classes:UTT",
         "month": "aug,",
         "number": "4",
         "numpages": "24",
