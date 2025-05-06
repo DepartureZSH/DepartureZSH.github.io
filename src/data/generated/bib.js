@@ -96,6 +96,21 @@
         "volume": "13",
         "year": "2025"
     },
+    "haiderGeneticDeepReinforcement2024": {
+        "address": "Beijing China",
+        "author": "Haider, Sami Ahmed and Ahmad, Khwaja Mutahir and Zahid, Adnan and AlGhamdi, Azzah and Keshta, Ismail and Soni, Mukesh",
+        "booktitle": "Proceedings of the 2024 {{International Conference}} on {{Artificial Intelligence}} and {{Teacher Education}}",
+        "doi": "10.1145/3702386.3702398",
+        "isbn": "979-8-4007-1013-1",
+        "langid": "english",
+        "month": "oct,",
+        "pages": "117--124",
+        "publisher": "ACM",
+        "title": "Genetic and {{Deep Reinforcement Learning-Based Intelligent Course Scheduling}} for {{Smart Education}}",
+        "type": "inproceedings",
+        "urldate": "2025-05-06",
+        "year": "2024"
+    },
     "mikkelsenParallelizedMatheuristicInternational2022": {
         "abstract": "The International Timetabling Competition 2019 (ITC 2019) presents a novel and generalized university timetabling problem composed of traditional class time and room assignment and student sectioning. In this paper, we present a parallelized matheuristic tailored to the ITC 2019 problem. The matheuristic is composed of multiple methods using the graph-based mixed-integer programming (MIP) model defined for the ITC 2019 problem by Holm et al. (A graph-based MIP formulation of the International Timetabling Competition 2019. J Sched, 2022. https://doi.org/10.1007/s10951-022-00724-y ). We detail all methods included in the parallelized matheuristic and the collaboration between them. The parallelized matheuristic includes two methods for producing initial solutions and uses a fix-and-optimize matheuristic to improve solutions. Additionally, the method uses the full MIP model to calculate lower bounds. We describe how the methods perform collaboratively through solution sharing, and a diversification scheme invoked when the search stagnates. Furthermore, we explain how we decompose the problem for instances with a large number of students. We evaluate components of the parallelized matheuristic using the 30 benchmark instances of the ITC 2019. The complete parallelized matheuristic performs well, even solving some instances to proven optimality. The presented method is the winning algorithm of the competition, further demonstrating its quality.",
         "annotation": "TLDR: The complete parallelized matheuristic performs well, even solving some instances to proven optimality, and is the winning algorithm of the ITC 2019, further demonstrating its quality.",
