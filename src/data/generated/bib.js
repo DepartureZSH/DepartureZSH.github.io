@@ -1,6 +1,26 @@
 ﻿define({ entries : {
+    "00d915085917165fc32873905520d1b16ae609e9": {
+        "abstract": "",
+        "author": "Andrea Schaerf",
+        "doi": "10.1023/A:1006576209967",
+        "journal": "Artificial Intelligence Review",
+        "pages": "87-127",
+        "title": "A Survey of Automated Timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/00d915085917165fc32873905520d1b16ae609e9",
+        "volume": "13",
+        "year": "1999"
+    },
+    "026d66c1c89d2fd2619774fdf64379ed7cbd83bd": {
+        "abstract": "",
+        "author": "Matias S\u00f8rensen and Thomas J. R. Stidsen",
+        "title": "Comparing Solution Approaches for a Complete Model of High School Timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/026d66c1c89d2fd2619774fdf64379ed7cbd83bd",
+        "year": "2013"
+    },
     "0534220ebb64080f7941f0e181368ec8f546937f": {
-        "abstract": "null",
+        "abstract": "",
         "author": "E. Burke and Jakub Marecek and A. Parkes and Hana Rudov\u00e1",
         "doi": "10.1007/S10479-010-0828-5",
         "journal": "Annals of Operations Research",
@@ -11,8 +31,37 @@
         "volume": "194",
         "year": "2012"
     },
+    "05593066d57e8b27f82702aa2a7d965632f7422b": {
+        "abstract": "",
+        "author": "Economie EN Bedrijfskunde and E. Verhees",
+        "title": "A HEURISTIC APPROACH TO UNIVERSITY COURSE TIMETABLING",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/05593066d57e8b27f82702aa2a7d965632f7422b",
+        "year": "2012"
+    },
+    "070b65d4f0841b05b073fe7c628be770536f59eb": {
+        "abstract": "",
+        "author": "Pennee Wangmaeteekul",
+        "title": "Using distributed agents to create university course timetables addressing essential & desirable constraints and fair allocation of resources",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/070b65d4f0841b05b073fe7c628be770536f59eb",
+        "year": "2011"
+    },
+    "0bf73707d3c5763f74aa8aa259445bed05662a44": {
+        "abstract": "",
+        "arxivid": "0903.1095",
+        "author": "E. Burke and Jakub Marecek and A. Parkes and Hana Rudov\u00e1",
+        "doi": "10.1016/j.cor.2009.02.023",
+        "journal": "Comput. Oper. Res.",
+        "pages": "582-597",
+        "title": "Decomposition, reformulation, and diving in university course timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/0bf73707d3c5763f74aa8aa259445bed05662a44",
+        "volume": "37",
+        "year": "2009"
+    },
     "0e01b87ab5eb1067c8be1691adb27a6f1829a10b": {
-        "abstract": "S2 TL;DR: This survey is devoted to review the main works on the topic, with focus on mathematical models, lower bounds, and exact and heuristic algorithms that could make the study of CB-CTT even more challenging and closer to reality.",
+        "abstract": "",
         "author": "A. Bettinelli and Valentina Cacchiani and R. Roberti and P. Toth",
         "doi": "10.1007/s11750-015-0366-z",
         "journal": "TOP",
@@ -24,16 +73,121 @@
         "year": "2015"
     },
     "0e58e84541f02ccd12986def2296f2646d975191": {
-        "abstract": "S2 TL;DR: This report addresses a case study of the Curriculum-Based Course Timetabling (CB-CTT) problem, arising at Engineering Department of Sannio University, and proposes an MIP solver integrated with two local branching heuristics tailored for the problem.",
-        "author": "P. Avella and M. Boccia and Sandro Viglione and I. Vasil'ev",
+        "abstract": "",
+        "author": "Pasquale Avella and M. Boccia and Sandro Viglione and I. Vasil'ev",
         "doi": "10.1007/978-3-030-33394-2_34",
         "title": "A Local Branching MIP Heuristic for a Real-World Curriculum-Based Course Timetabling Problem",
         "type": "article",
         "url": "https://www.semanticscholar.org/paper/0e58e84541f02ccd12986def2296f2646d975191",
         "year": "2019"
     },
+    "107d7f683c15450d1b900ad808af97c6417f6cb2": {
+        "abstract": "",
+        "author": "Felipe A. Santos and A. Delbem",
+        "title": "Grouping Genetic Algorithm with Efficient Data Structures for the University Course Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/107d7f683c15450d1b900ad808af97c6417f6cb2",
+        "year": "2014"
+    },
+    "10ea34855ab9c0bb5cc85ba69be778e7548e67c1": {
+        "abstract": "",
+        "author": "Alexandre Lemos and Pedro T. Monteiro and I. Lynce",
+        "title": "ITC-2019: A MaxSAT approach to solve University Timetabling problems",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/10ea34855ab9c0bb5cc85ba69be778e7548e67c1",
+        "year": "2019"
+    },
+    "1199ad65338c55481dbbcdf5e0675b14b32843a8": {
+        "abstract": "",
+        "author": "M. Aschinger and S. Applebee and A. Bucur and H. Edmonds and P. Hungerl\u00e4nder and Kerstin Maier",
+        "doi": "10.1007/978-3-319-55702-1_14",
+        "title": "New Constraints and Features for the University Course Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/1199ad65338c55481dbbcdf5e0675b14b32843a8",
+        "year": "2016"
+    },
+    "13da72db41bd451610f71347dcb6da18e0b4f960": {
+        "abstract": "",
+        "author": "Matias S\u00f8rensen and Simon Kristiansen and Thomas J. R. Stidsen",
+        "title": "International Timetabling Competition 2011: An Adaptive Large Neighborhood Search algorithm",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/13da72db41bd451610f71347dcb6da18e0b4f960",
+        "year": "2012"
+    },
+    "16a3fcba18ccc255e8dc42ea0950992875d2ef82": {
+        "abstract": "",
+        "author": "P. Cutillas and D. Perales and M. M. E. A. D\u00edaz",
+        "doi": "10.1007/s12351-021-00638-1",
+        "journal": "Operational Research",
+        "pages": "2899 - 2942",
+        "title": "A mathematical programming tool for an efficient decision-making on teaching assignment under non-regular time schedules",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/16a3fcba18ccc255e8dc42ea0950992875d2ef82",
+        "volume": "22",
+        "year": "2021"
+    },
+    "181d7e52cd4d71b916d78628777619f46f623223": {
+        "abstract": "",
+        "author": "J. H. Obit",
+        "title": "Developing novel meta-heuristic, hyper-heuristic and cooperative search for course timetabling problems",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/181d7e52cd4d71b916d78628777619f46f623223",
+        "year": "2010"
+    },
+    "1a899bdeebf862dbbeee19e209b56ba0fa18f9ba": {
+        "abstract": "",
+        "author": "Lisa A. Taylor",
+        "title": "Local Search Methods for the Post Enrolment-based Course Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/1a899bdeebf862dbbeee19e209b56ba0fa18f9ba",
+        "year": "2013"
+    },
+    "1aecca56a21b37eeb6565e13a1e1df57a9f690ae": {
+        "abstract": "",
+        "author": "S. Daskalaki and Theodore Birbas",
+        "doi": "10.1016/j.ejor.2003.06.023",
+        "journal": "Eur. J. Oper. Res.",
+        "pages": "106-120",
+        "title": "Efficient solutions for a university timetabling problem through integer programming",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/1aecca56a21b37eeb6565e13a1e1df57a9f690ae",
+        "volume": "160",
+        "year": "2005"
+    },
+    "1d48bcafa5082ce8b00bcb41bd276f6e9ec73413": {
+        "abstract": "",
+        "author": "R. Els and N. Pillay",
+        "doi": "10.1109/NABIC.2010.5716340",
+        "journal": "2010 Second World Congress on Nature and Biologically Inspired Computing (NaBIC)",
+        "pages": "460-466",
+        "title": "An evolutionary algorithm hyper-heuristic for producing feasible timetables for the curriculum based university course timetabling problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/1d48bcafa5082ce8b00bcb41bd276f6e9ec73413",
+        "volume": "null",
+        "year": "2010"
+    },
+    "1fe67ab8de2bb78790ba7d58b82dede09dc31777": {
+        "abstract": "",
+        "author": "Chris Fawcett and H. Hoos and Marco Chiarandini",
+        "title": "An automatically configured modular algorithm for post enrollment course timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/1fe67ab8de2bb78790ba7d58b82dede09dc31777",
+        "year": "2009"
+    },
+    "1ff8f4894329c87d7298c6cf207a63eaa05381fe": {
+        "abstract": "",
+        "author": "I. G. A. Premananda and Ahmad Muklason",
+        "doi": "10.23917/khif.v7i2.12879",
+        "journal": "Khazanah Informatika: Jurnal Ilmu Komputer dan Informatika",
+        "pages": "null",
+        "title": "Complex University Timetabling Using Iterative Forward Search Algorithm and Great Deluge Algorithm",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/1ff8f4894329c87d7298c6cf207a63eaa05381fe",
+        "volume": "null",
+        "year": "2021"
+    },
     "220089f66319f5ad3a10475a3524a0d3115790bd": {
-        "abstract": "null",
+        "abstract": "",
         "author": "A. Siddiqui and S. A. Raza",
         "doi": "10.1016/j.eswa.2020.114268",
         "journal": "Expert Syst. Appl.",
@@ -44,8 +198,32 @@
         "volume": "170",
         "year": "2021"
     },
+    "29ad8b90355c6735029b31d633717e7a067da1fe": {
+        "abstract": "",
+        "arxivid": "2106.03051",
+        "author": "Junyoung Park and Sanjar Bakhtiyar and Jinkyoo Park",
+        "journal": "ArXiv",
+        "pages": "null",
+        "title": "ScheduleNet: Learn to solve multi-agent scheduling problems with reinforcement learning",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/29ad8b90355c6735029b31d633717e7a067da1fe",
+        "volume": "abs/2106.03051",
+        "year": "2021"
+    },
+    "2c6668423a4a4904ea7c9593e14ebdf6a0c6f875": {
+        "abstract": "",
+        "author": "Katja Schimmelpfeng and S. Helber",
+        "doi": "10.1007/S00291-006-0074-Z",
+        "journal": "OR Spectrum",
+        "pages": "783-803",
+        "title": "Application of a real-world university-course timetabling model solved by integer programming",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/2c6668423a4a4904ea7c9593e14ebdf6a0c6f875",
+        "volume": "29",
+        "year": "2007"
+    },
     "2c7199ec69d2392a4a22e5095497fcb4984b67d9": {
-        "abstract": "The timetabling problem is common to academic institutions such as schools, colleges or universities. It is a very hard combinatorial optimisation problem which attracts the interest of many researchers. The university course timetabling problem (UCTTP) is difficult to address due to the size of the problem and several challenging hard and soft constraints. Over the years, various methodologies were proposed to solve UCTTP. The purpose of this survey paper is to provide the most recent scientific review of the methodologies applied to UCTTP. The paper unveils a classification of methodologies proposed in recent years based on chronology and datasets used. Perspectives, trends, challenges and opportunities in UCTTP are also presented. It is observed that meta-heuristic approaches are popular among researchers. This is followed closely by hybrid methodologies. Hyper-heuristic approaches are also able to produce effective results. Another observation is that the state-of-art methodologies in the scientific literature are not fully utilised in a real-world environment perhaps due to the limited flexibility of these methodologies.",
+        "abstract": "",
         "author": "M. Chen and S. Sze and Say Leng Goh and Nasser R. Sabar and G. Kendall",
         "doi": "10.1109/ACCESS.2021.3100613",
         "journal": "IEEE Access",
@@ -56,8 +234,41 @@
         "volume": "9",
         "year": "2021"
     },
+    "2f29f7f8a758c307fc32567845b5f0294040c5f3": {
+        "abstract": "",
+        "author": "Alexandre Lemos and Pedro T. Monteiro and I. Lynce",
+        "doi": "10.1007/978-3-030-58942-4_21",
+        "title": "Minimal Perturbation in University Timetabling with Maximum Satisfiability",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/2f29f7f8a758c307fc32567845b5f0294040c5f3",
+        "year": "2020"
+    },
+    "3405dc77d3a7e6d4eaace922d3c25ec981b82c76": {
+        "abstract": "",
+        "author": "N. Pillay",
+        "doi": "10.1007/s10479-013-1321-8",
+        "journal": "Annals of Operations Research",
+        "pages": "261-293",
+        "title": "A survey of school timetabling research",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/3405dc77d3a7e6d4eaace922d3c25ec981b82c76",
+        "volume": "218",
+        "year": "2014"
+    },
+    "3423c994289f89bae4803df668416f88ecd4bef8": {
+        "abstract": "",
+        "author": "Gerald Lach and M. L\u00fcbbecke",
+        "doi": "10.1007/s10479-010-0700-7",
+        "journal": "Annals of Operations Research",
+        "pages": "255 - 272",
+        "title": "Curriculum based course timetabling: new solutions to Udine benchmark instances",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/3423c994289f89bae4803df668416f88ecd4bef8",
+        "volume": "194",
+        "year": "2010"
+    },
     "392d3e0b4f279c1443d86650208305993a66f684": {
-        "abstract": "S2 TL;DR: A mixed-integer programming model for solving the university timetabling problem which considers the allocation of students to classes and the assignment of rooms and time periods to each class is presented.",
+        "abstract": "",
         "author": "Efstratios Rappos and Eric Thi\u00e9mard and Stephan Robert and Jean-Fran\u00e7ois H\u00eache",
         "doi": "10.1007/s10951-021-00715-5",
         "journal": "Journal of Scheduling",
@@ -69,7 +280,7 @@
         "year": "2022"
     },
     "3c9c3c16db74d8adbcde1607cd5d6cdd9fe30e31": {
-        "abstract": "S2 TL;DR: A CP model encoded in the MiniZinc modeling language and solved it with Gecode, as well as two MIP models solved with Gurobi and a metaheuristic method based on simulated annealing of Battistutta et al. is extended.",
+        "abstract": "",
         "author": "M. Carlsson and Sara Ceschia and Luca Di Gaspero and R. Mikkelsen and Andrea Schaerf and Thomas J. R. Stidsen",
         "doi": "10.1007/s10951-023-00778-6",
         "journal": "Journal of Scheduling",
@@ -81,7 +292,7 @@
         "year": "2023"
     },
     "3e2ad7c43c844af5a1a3b18904636d0ed990a6ba": {
-        "abstract": "S2 TL;DR: An effective and robust single-stage simulated annealing method for solving the university course timetabling problem and an extensive and statistically-principled methodology for the parameter tuning procedure is designed and applied.",
+        "abstract": "",
         "arxivid": "1409.7186",
         "author": "R. Bellio and Sara Ceschia and L. Gaspero and Andrea Schaerf and Tommaso Urli",
         "doi": "10.1016/j.cor.2015.07.002",
@@ -93,8 +304,50 @@
         "volume": "abs/1409.7186",
         "year": "2014"
     },
+    "4092f6b7f7df0cf85f3936df10717e2df651f424": {
+        "abstract": "",
+        "author": "Matthew Davison and Ahmed Kheiri and Konstantinos G. Zografos",
+        "doi": "10.1007/s10951-024-00817-w",
+        "journal": "Journal of Scheduling",
+        "pages": "null",
+        "title": "Modelling and solving the university course timetabling problem with hybrid teaching considerations",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/4092f6b7f7df0cf85f3936df10717e2df651f424",
+        "volume": "null",
+        "year": "2024"
+    },
+    "40be890101fa46d9cddfcd5b0c099a820d2cd541": {
+        "abstract": "",
+        "arxivid": "2504.05370",
+        "author": "Xueqiao Zhang and Chao Zhang and Jianwen Sun and Jun Xiao and Yi Yang and Yawei Luo",
+        "doi": "10.1109/tlt.2025.3561332",
+        "journal": "IEEE Transactions on Learning Technologies",
+        "pages": "null",
+        "title": "EduPlanner: LLM-Based Multi-Agent Systems for Customized and Intelligent Instructional Design",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/40be890101fa46d9cddfcd5b0c099a820d2cd541",
+        "volume": "null",
+        "year": "2025"
+    },
+    "4306b99e4f1ccea0eea118ae9e7acb47b7398738": {
+        "abstract": "",
+        "author": "Rushil Raghavjee and N. Pillay",
+        "doi": "10.1007/978-3-642-45111-9_6",
+        "title": "A Study of Genetic Algorithms to Solve the School Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/4306b99e4f1ccea0eea118ae9e7acb47b7398738",
+        "year": "2013"
+    },
+    "457ba92be31662fff96cc04b3686e215b763d77d": {
+        "abstract": "",
+        "author": "P. P. Parra and Oscar Chavez Bosquez and J. Ramos",
+        "title": "Towards a deterministic model for course timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/457ba92be31662fff96cc04b3686e215b763d77d",
+        "year": "2010"
+    },
     "4637766b50bfd379fcc9e67120ce148f79b647cf": {
-        "abstract": "S2 TL;DR: The solver detects local optima and applies gradual penalization to force solutions to new neighborhoods and detects required constraints which are difficult to satisfy and performs a specialized search on them to find feasible solutions for all problem instances of the ITC2019 competition.",
+        "abstract": "",
         "author": "Kadri Sylejmani and Edon Gashi and Adrian Ymeri",
         "doi": "10.1007/s10951-022-00747-5",
         "journal": "Journal of Scheduling",
@@ -105,8 +358,42 @@
         "volume": "26",
         "year": "2022"
     },
+    "466503f63bd369a52e07ded7aa6f0b14c8fb0a2f": {
+        "abstract": "",
+        "author": "Ulisses Rezende Teixeira and M. Souza and S. R. Souza and V. N. Coelho",
+        "doi": "10.1007/978-3-030-15843-9_9",
+        "title": "An Adaptive VNS and Skewed GVNS Approaches for School Timetabling Problems",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/466503f63bd369a52e07ded7aa6f0b14c8fb0a2f",
+        "year": "2018"
+    },
+    "484307513acaffebfbae19e5339ec46f874c7e8e": {
+        "abstract": "",
+        "author": "Rong Qu and E. Burke and B. McCollum and Liam T. G. Merlot and S. Lee",
+        "doi": "10.1007/s10951-008-0077-5",
+        "journal": "Journal of Scheduling",
+        "pages": "55-89",
+        "title": "A survey of search methodologies and automated system development for examination timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/484307513acaffebfbae19e5339ec46f874c7e8e",
+        "volume": "12",
+        "year": "2009"
+    },
+    "487f7ee840450bf9bebd70a34d390daabd4495d5": {
+        "abstract": "",
+        "arxivid": "1602.04933",
+        "author": "Patrick Kenekayoro and Godswill Zipamone",
+        "doi": "10.9734/bjmcs/2016/23143",
+        "journal": "ArXiv",
+        "pages": "null",
+        "title": "Greedy Ants Colony Optimization Strategy for Solving the Curriculum Based University Course Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/487f7ee840450bf9bebd70a34d390daabd4495d5",
+        "volume": "abs/1602.04933",
+        "year": "2016"
+    },
     "48da93723e6ee51b2a8cb1176a24d4dcbfb4effa": {
-        "abstract": "S2 TL;DR: The proposed CMLS algorithm for solving the curriculum-based course timetabling problem is evaluated on the well-known benchmark instances, and the computational results show that the proposed algorithm is highly competitive compared with 6 state-of-the-art algorithms in the literature.",
+        "abstract": "",
         "author": "Ting Song and Mao Chen and Yulong Xu and Dong Wang and Xuekun Song and Xiangyang Tang",
         "doi": "10.1016/j.asoc.2021.107624",
         "journal": "Appl. Soft Comput.",
@@ -117,8 +404,20 @@
         "volume": "110",
         "year": "2021"
     },
+    "48f07495854761afae70fe0483358c50af43bcf9": {
+        "abstract": "",
+        "author": "E. Milewska",
+        "doi": "10.12783/DTETR/APETC2017/10937",
+        "journal": "DEStech Transactions on Engineering and Technology Research",
+        "pages": "null",
+        "title": "Tabu Search Techniques for Polish Higher Education Timetabling Problems",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/48f07495854761afae70fe0483358c50af43bcf9",
+        "volume": "",
+        "year": "2017"
+    },
     "48f2190cf93982f137d83eb21f9e3622fbf57d2c": {
-        "abstract": "Curriculum-Based university Course Time-Tabling, CB-CTT, a known scheduling problem. We adapted a new swarm intelligence approach, identified as MABC based on the Artificial Bee Colony (ABC) to solve the CB-CTT. The approach consists of two steps: first, a feasible solution of the problem is constructed, which satisfies only the hard constraints; and then, the soft constraints are attempted to be satisfied. MABC could satisfy the hard constraints of the problem for all datasets of the ITC-2007 track 3, a benchmark dataset for the CB-CTT. The penalty of the achieved solutions by MABC is comparable to the related work in the literature that used the ABC for solving the CB-CTT.",
+        "abstract": "",
         "author": "Saeid Agahian and H. Pehlivan and Rahim Dehkharghani",
         "doi": "10.1109/ISMS.2014.157",
         "journal": "2014 5th International Conference on Intelligent Systems, Modelling and Simulation",
@@ -129,8 +428,24 @@
         "volume": "null",
         "year": "2014"
     },
+    "496b89b6ad6ae9dc6c370a96b8b408048041c7f8": {
+        "abstract": "",
+        "author": "P. Kostuch",
+        "title": "The University Course Timetabling Problem with a 3-phase approach",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/496b89b6ad6ae9dc6c370a96b8b408048041c7f8",
+        "year": "2007"
+    },
+    "4cdf1e502453d80cd012add405b04fb3669a390f": {
+        "abstract": "",
+        "author": "Hana Rudov\u00e1 and Tom\u00e1s M\u00fcller and Zuzana M\u00fcllerov\u00e1",
+        "title": "Real-world university course timetabling at the International Timetabling Competition 2019",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/4cdf1e502453d80cd012add405b04fb3669a390f",
+        "year": "2022"
+    },
     "512f202c6da789a70a4cbec6b34129cbcd71ee55": {
-        "abstract": "S2 TL;DR: This paper proposes a soft computing approach based on Iterated Local Search and Variable Neighborhood Search metaheuristic frameworks that incorporate new neighborhood structures and local search routines to perform an effective search for high school timetabling problems.",
+        "abstract": "",
         "author": "Landir Saviniec and A. Constantino",
         "doi": "10.1016/j.asoc.2017.06.047",
         "journal": "Appl. Soft Comput.",
@@ -141,8 +456,65 @@
         "volume": "60",
         "year": "2017"
     },
+    "52710af13fcb0e8e11f6c6d7fb536f4f9a3ee31d": {
+        "abstract": "",
+        "author": "Michael Lindahl and Matias S\u00f8rensen and Thomas J. R. Stidsen",
+        "doi": "10.1007/s10732-018-9371-3",
+        "journal": "Journal of Heuristics",
+        "pages": "645 - 665",
+        "title": "A fix-and-optimize matheuristic for university timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/52710af13fcb0e8e11f6c6d7fb536f4f9a3ee31d",
+        "volume": "24",
+        "year": "2018"
+    },
+    "543b51fef5f280bc331b95611f26a03a1e67ab8a": {
+        "abstract": "",
+        "author": "N. Pillay",
+        "doi": "10.1007/s10479-013-1321-8",
+        "journal": "Annals of Operations Research",
+        "pages": "261 - 293",
+        "title": "A survey of school timetabling research",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/543b51fef5f280bc331b95611f26a03a1e67ab8a",
+        "volume": "218",
+        "year": "2013"
+    },
+    "55f3cd216bb540b257316dbffd29215d266c5e2a": {
+        "abstract": "",
+        "author": "A. Kheiri and Ender \u00d6zcan and A. Parkes",
+        "doi": "10.1007/s10479-014-1660-0",
+        "journal": "Annals of Operations Research",
+        "pages": "135 - 151",
+        "title": "A stochastic local search algorithm with adaptive acceptance for high-school timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/55f3cd216bb540b257316dbffd29215d266c5e2a",
+        "volume": "239",
+        "year": "2014"
+    },
+    "57be06e970df4fd8abd3ebb849dd783444680472": {
+        "abstract": "",
+        "author": "J. Wahid and N. Hussin",
+        "doi": "10.1007/978-981-287-936-3_14",
+        "title": "Solving Curriculum Based Course Timetabling by Hybridizing Local Search Based Method within Harmony Search Algorithm",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/57be06e970df4fd8abd3ebb849dd783444680472",
+        "year": "2015"
+    },
+    "5baf54f8c0a264ea66154d5df3c672b0d2eb9efe": {
+        "abstract": "",
+        "author": "George H. G. Fonseca and H. Santos and T\u00falio A. M. Toffolo and Samuel S. Brito and M. Souza",
+        "doi": "10.1007/s10479-014-1685-4",
+        "journal": "Annals of Operations Research",
+        "pages": "77 - 97",
+        "title": "GOAL solver: a hybrid local search based solver for high school timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/5baf54f8c0a264ea66154d5df3c672b0d2eb9efe",
+        "volume": "239",
+        "year": "2014"
+    },
     "5d5864882b0c272a76d0cc494530fb2380f81ee1": {
-        "abstract": "Abstract The thesis defense timetabling problem consists in composing the suitable committee for a set of defense sessions and assigning each graduation candidate to one of the sessions. In this work, we define the problem formulation that applies to some Italian universities and we provide three alternative solution methods, based on Integer Programming, Constraint Programming and Local Search, respectively. We also develop a principled instance generator, in order to expand the set of available instances. We perform an experimental analysis and we compare our solvers among themselves, using a testbed composed of both real-world and artificial instances. Even though there is no dominant method, the outcome is that Integer Programming gives the best average results, with Local Search being second, and Constraint Programming last on our testbed. All data is available on the web for verification and future comparisons.",
+        "abstract": "",
         "author": "Michele Battistutta and Sara Ceschia and Fabio De Cesco and L. Gaspero and Andrea Schaerf",
         "doi": "10.1080/01605682.2018.1495870",
         "journal": "Journal of the Operational Research Society",
@@ -153,8 +525,40 @@
         "volume": "70",
         "year": "2019"
     },
+    "5e0cd4a78b7fb338019a08e25df5068271ca0d41": {
+        "abstract": "",
+        "author": "Teeradech Laisupannawong and Supphakorn Sumetthapiwat",
+        "doi": "10.1155/2024/6636563",
+        "journal": "Advances in Operations Research",
+        "pages": "null",
+        "title": "An Integer Linear Programming Model for the Examination Timetabling Problem: A Case Study of a University in Thailand",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/5e0cd4a78b7fb338019a08e25df5068271ca0d41",
+        "volume": "null",
+        "year": "2024"
+    },
+    "60002f555487daa9639cb148d1bbdb3fab6839f2": {
+        "abstract": "",
+        "author": "C. B. Mallari and Jayne Lois San Juan and Richard C. Li",
+        "doi": "10.1016/j.cie.2023.109561",
+        "journal": "Comput. Ind. Eng.",
+        "pages": "109561",
+        "title": "The university coursework timetabling problem: An optimization approach to synchronizing course calendars",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/60002f555487daa9639cb148d1bbdb3fab6839f2",
+        "volume": "184",
+        "year": "2023"
+    },
+    "6139226a0898da956683fea1b75eb39e84573bfe": {
+        "abstract": "",
+        "author": "Antony E. Phillips and David Ryan and Matthias Ehrgott",
+        "title": "Solving the Classroom Assignment Problem Using Integer Programming",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/6139226a0898da956683fea1b75eb39e84573bfe",
+        "year": "null"
+    },
     "61439971abca0c5391ad30d3ba67ea77c821620f": {
-        "abstract": "S2 TL;DR: This paper introduces the multiphase course timetabling problem and presents mathematical formulations and effective solution algorithms to solve it in a real case study and results of a computational study demonstrate the efficacy of the proposed exact and matheuristic algorithms.",
+        "abstract": "",
         "author": "Rasul Esmaeilbeigi and Vicky H. Mak-Hau and J. Yearwood and V. Nguyen",
         "doi": "10.1016/j.ejor.2021.10.014",
         "journal": "Eur. J. Oper. Res.",
@@ -165,8 +569,60 @@
         "volume": "300",
         "year": "2021"
     },
+    "62ac9de481c08a7fa0a6e570a0cb23508818fd33": {
+        "abstract": "",
+        "author": "Jonathan Domr\u00f6s and J\u00f6rg Homberger",
+        "title": "An Evolutionary Algorithm for High School Timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/62ac9de481c08a7fa0a6e570a0cb23508818fd33",
+        "year": "2012"
+    },
+    "62f297fc0fc5a0a2cc51d0fde5d7defcc2fed5c0": {
+        "abstract": "",
+        "author": "S. A. Raza",
+        "doi": "10.1080/12460125.2021.2015840",
+        "journal": "Journal of Decision Systems",
+        "pages": "177 - 200",
+        "title": "A paradigm shift to ethical decision-making\u2014incorporating systemic epistemology into complex socio-technical decision support systems research",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/62f297fc0fc5a0a2cc51d0fde5d7defcc2fed5c0",
+        "volume": "32",
+        "year": "2021"
+    },
+    "64c5e62023199b5a72a410f2b07596696e093787": {
+        "abstract": "",
+        "author": "Gerald Lach and M. L\u00fcbbecke",
+        "title": "Curriculum Based Course Timetabling: Optimal Solutions to the Udine Benchmark Instances",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/64c5e62023199b5a72a410f2b07596696e093787",
+        "year": "2008"
+    },
+    "660efc35c13f981d525fe90acb9b1595e10860d5": {
+        "abstract": "",
+        "author": "N. Pillay",
+        "doi": "10.1109/CEC.2016.7744354",
+        "journal": "2016 IEEE Congress on Evolutionary Computation (CEC)",
+        "pages": "4437-4443",
+        "title": "Evolving construction heuristics for the curriculum based university course timetabling problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/660efc35c13f981d525fe90acb9b1595e10860d5",
+        "volume": "null",
+        "year": "2016"
+    },
+    "68213473a3ccb75386c21893b7afb5a25349eabe": {
+        "abstract": "",
+        "author": "G. Post and S. Ahmadi and S. Daskalaki and Jeffrey H. Kingston and J. Kyng\u00e4s and K. Nurmi and David Ranson",
+        "doi": "10.1007/s10479-010-0699-9",
+        "journal": "Annals of Operations Research",
+        "pages": "385-397",
+        "title": "An XML format for benchmarks in High School Timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/68213473a3ccb75386c21893b7afb5a25349eabe",
+        "volume": "194",
+        "year": "2010"
+    },
     "6994899cc6fdb0777487ebeb62762544dd358b40": {
-        "abstract": "S2 TL;DR: Results reveal that this hybrid CSO based algorithm, applied to the same school timetabling test instances using the same evaluation criteria, exhibits better performance in less computational time compared to the majority of other existing approaches.",
+        "abstract": "",
         "author": "Vassilios I. Skoullis and Ioannis X. Tassopoulos and G. Beligiannis",
         "doi": "10.1016/j.asoc.2016.10.038",
         "journal": "Appl. Soft Comput.",
@@ -178,7 +634,7 @@
         "year": "2017"
     },
     "6c6abe7d2e4f299da9b022512a419ab7ba3fbe64": {
-        "abstract": "Exam timetabling is a prominent topic in academic administration management as it ensures the effective utilization of resources and satisfies the requirements and preferences of stakeholders, which leads to a productive academic environment, contributing to the institution\u2019s overall success. Given the myriad of solution methodologies explored across diverse exam timetabling problems and constraints, both in studied benchmark datasets and real-life cases over the last decade, it is imperative to undertake a comprehensive survey. This survey paper aims to comprehensively describe the exam timetabling problem (ETP), including its variants, constraints, and benchmark dataset. We look at different methods to solve ETP problems from 2012 to 2023. These methods include mathematical optimization, heuristics, metaheuristics, hyper-heuristics, hybrid approaches, and matheuristics. Finally, we discuss the review findings and potential research directions. By doing so, we hope to facilitate a deeper understanding of ETP and offer valuable insights for future research.",
+        "abstract": "",
         "author": "Emily Sing Kiang Siew and San Nah Sze and Say Leng Goh and Graham Kendall and Nasser R. Sabar and Salwani Abdullah",
         "doi": "10.1109/ACCESS.2024.3378054",
         "journal": "IEEE Access",
@@ -190,15 +646,27 @@
         "year": "2024"
     },
     "6d2b6ec410f68cf005085ba87c6dd6c58ad6f818": {
-        "abstract": "The problem of schedule optimization is a subject of scientific research over the past few decades. Researchers have developed algorithms to solve problems like shift scheduling, nurse rostering etc. Are there more applications have been developed to solve the problem of scheduling in the educational domain, namely, the university course timetabling problem, examination scheduling end the school timetabling problem. Although the first two subjects have been studied thoroughly, that is not the case for school timetabling. This is mainly because most studies have been conducted in isolation. Furthermore, there is not a great variety of problem data that have been made available publicly thus hindering the development comparative studies. The present study is an effort to provide an overview of the modern methods applied to solving the school timetabling problem. The purpose of the study is to provide help in order to further explore the research in this domain.",
+        "abstract": "",
         "author": "\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf\u03c2 \u03a6\u03c1\u03b1\u03b3\u03ba\u03bf\u03cd\u03bb\u03b7\u03c2",
         "title": "\u0391\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03c3\u03b7 \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03c9\u03bd \u03b1\u03bb\u03b3\u03bf\u03c1\u03af\u03b8\u03bc\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03b4\u03bf\u03c4\u03b9\u03ba\u03ae \u03b5\u03c0\u03af\u03bb\u03c5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b5\u03cd\u03c1\u03b5\u03c3\u03b7\u03c2 \u03b2\u03ad\u03bb\u03c4\u03b9\u03c3\u03c4\u03bf\u03c5 \u03c9\u03c1\u03bf\u03bb\u03bf\u03b3\u03af\u03bf\u03c5 \u03c3\u03c7\u03bf\u03bb\u03b9\u03ba\u03bf\u03cd \u03c0\u03c1\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03bf\u03c2.",
         "type": "article",
         "url": "https://www.semanticscholar.org/paper/6d2b6ec410f68cf005085ba87c6dd6c58ad6f818",
         "year": "2019"
     },
+    "6db1ad1c37731e2be15f6a76c5aca4e91a00ef66": {
+        "abstract": "",
+        "author": "S. N. Jat and Shengxiang Yang",
+        "doi": "10.1007/s10951-010-0202-0",
+        "journal": "Journal of Scheduling",
+        "pages": "617-637",
+        "title": "A hybrid genetic algorithm and tabu search approach for post enrolment course timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/6db1ad1c37731e2be15f6a76c5aca4e91a00ef66",
+        "volume": "14",
+        "year": "2011"
+    },
     "6e974934657984b566d91dda94386a2ed72dda65": {
-        "abstract": "Abstract This study deals with the school timetabling problem for the case of Greek high schools. At first, the problem is modelled as a Mixed Integer Programming problem for ten instances referring to Greek high schools. Then, the problem is coded using the MathProg programming language. Two different linear programming solvers are employed, Gurobi and CPLEX, to solve the problem for the instances at hand. Two methodologies are proposed. The first one deals with the problem utilising a model that includes all hard and soft constraints, called \u201cmonolithic\u201d model, while the second one is based on a decomposition of the problem to six sub-problems. It should be stated that Gurobi and CPLEX did not produced satisfactory results when the monolithic model was the case. Computational results demonstrate the effectiveness of the second proposed methodology, as optimal solutions or new lower bounds were found. In addition, the results produced by Mixed Integer Programming are compared with the best so far published results, obtained by two Nature Inspired algorithms namely Particle Swarm Optimization and Cat Swarm Optimization.",
+        "abstract": "",
         "author": "Ioannis X. Tassopoulos and C. Iliopoulou and G. Beligiannis",
         "doi": "10.1080/01605682.2018.1557022",
         "journal": "Journal of the Operational Research Society",
@@ -210,7 +678,7 @@
         "year": "2019"
     },
     "6eb72d85ecd371d16d75d2b006df7256e39a6d3e": {
-        "abstract": "The University Course Timetabling Problem is an active and complex field with broad implications at most educational institutions. The current gap between literature and real-world applications is among the foremost challenges in this domain. This gap can be attributed to the solvers\u2019 lack of generality and/or inconsistency in problem definition. In an attempt to tackle this issue, the Student Sectioning Problem has been incorporated into the latest International Timetabling Competition benchmark dataset. This paper reviews, categorizes, and summarizes the approaches addressing the University Course Timetabling with Student Sectioning Problem. Furthermore, the strengths and limitations of these methods are analyzed. Challenges, gaps, and possible future work are also presented.",
+        "abstract": "",
         "author": "Sina Abdipoor and R. Yaakob and Say Leng Goh and Salwani Abdullah and K. A. Kasmiran and H. Hamdan",
         "doi": "10.1109/I2CACIS57635.2023.10193383",
         "journal": "2023 IEEE International Conference on Automatic Control and Intelligent Systems (I2CACIS)",
@@ -222,7 +690,7 @@
         "year": "2023"
     },
     "71f450638c3f4791c51470164713698f1200c747": {
-        "abstract": "S2 TL;DR: The proposed metaheuristic solution approach, more precisely an adaptive large neighborhood search, which is based on repetitively destroying and subsequently repairing relatively large parts of the solution, proves to be very effective for the curriculum-based course timetabling problem.",
+        "abstract": "",
         "author": "A. Kiefer and R. Hartl and Alexander Schnell",
         "doi": "10.1007/s10479-016-2151-2",
         "journal": "Annals of Operations Research",
@@ -233,8 +701,32 @@
         "volume": "252",
         "year": "2016"
     },
+    "7435412a56e550f2e007340e6760453609e300dd": {
+        "abstract": "",
+        "author": "J. Bassen and Bharathan Balaji and Michael Schaarschmidt and Candace Thille and Jay Painter and D. Zimmaro and A. Games and Ethan Fast and John C. Mitchell",
+        "doi": "10.1145/3313831.3376518",
+        "journal": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+        "pages": "null",
+        "title": "Reinforcement Learning for the Adaptive Scheduling of Educational Activities",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/7435412a56e550f2e007340e6760453609e300dd",
+        "volume": "null",
+        "year": "2020"
+    },
+    "74e5a2595d81217bcf4845cdb6d1b638d155b002": {
+        "abstract": "",
+        "author": "James Sakal and J. Fieldsend and E. Keedwell",
+        "doi": "10.1145/3449726.3459534",
+        "journal": "Proceedings of the Genetic and Evolutionary Computation Conference Companion",
+        "pages": "null",
+        "title": "Learning assignment order in an ant colony optimiser for the university course timetabling problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/74e5a2595d81217bcf4845cdb6d1b638d155b002",
+        "volume": "null",
+        "year": "2021"
+    },
     "7631af65c9407184409e5d3ab06bc48fa049e6f2": {
-        "abstract": "S2 TL;DR: A categorisation of the methodologies conducted in recent years based on chronology, category and application (dataset) is presented and the industrial perspective, trends and future direction in high school timetabling optimisation problems are outlined.",
+        "abstract": "",
         "author": "Joo Siang Tan and Say Leng Goh and G. Kendall and Nasser R. Sabar",
         "doi": "10.1016/j.eswa.2020.113943",
         "journal": "Expert Syst. Appl.",
@@ -245,8 +737,28 @@
         "volume": "165",
         "year": "2021"
     },
+    "7a4d9f58028c6a5f0d1fba8057134c20d29cd0b8": {
+        "abstract": "",
+        "author": "Patrick Pleass and M. Wallace and Mauro Bampo",
+        "title": "A Constraint Logic Programming Based Approach to the International Timetabling Competition",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/7a4d9f58028c6a5f0d1fba8057134c20d29cd0b8",
+        "year": "2006"
+    },
+    "7a6dc8613c211056ffea963345f7efd3d3aa8cd0": {
+        "abstract": "",
+        "author": "Simon Caillard and L. Devendeville and C. Lucet",
+        "doi": "10.1016/j.asoc.2023.110848",
+        "journal": "Appl. Soft Comput.",
+        "pages": "110848",
+        "title": "SimU-TACS: Ant Colony System for a planning problem in health simulation training",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/7a6dc8613c211056ffea963345f7efd3d3aa8cd0",
+        "volume": "148",
+        "year": "2023"
+    },
     "7cee039f7a6c5229e8f0e9b3f434b6e6eca3f491": {
-        "abstract": "This paper deals with the school timetabling problem. The problem was formulated as encountered in a typical Greek high school. A local version of the particle swarm optimization algorithm was developed and applied to the problem at hand. Results on well-established benchmark instances showed that the proposed algorithm achieved the proven optima provided from an integer programming method presented in earlier research. In almost all cases, the current algorithm beat the integer programming method, either concerning the lower bound yielded or the execution time needed.",
+        "abstract": "",
         "author": "Frank Werner and Ioannis X. Tassopoulos and C. Iliopoulou and Iosif V. Katsaragakis and G. Beligiannis",
         "doi": "10.3390/a16060291",
         "journal": "Algorithms",
@@ -257,8 +769,29 @@
         "volume": "16",
         "year": "2023"
     },
+    "7e5c134b2994d9ed0bea4ec325d8a8a23b1a28e2": {
+        "abstract": "",
+        "author": "Ender \u00d6zcan and Patrick De Causmaecker and G. V. Berghe",
+        "doi": "10.1007/s10951-022-00746-6",
+        "journal": "Journal of Scheduling",
+        "pages": "259 - 259",
+        "pmid": "35729986",
+        "title": "Advances in the practice and theory of automated timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/7e5c134b2994d9ed0bea4ec325d8a8a23b1a28e2",
+        "volume": "25",
+        "year": "2022"
+    },
+    "7f57f4b7e7933e77f2f9c5ac2bc247a7a9beec2d": {
+        "abstract": "",
+        "author": "Oscar Ch\u00e1vez-Bosquez and Maria del Pilar Pozos Parra and F. Lengyel",
+        "title": "Towards a Deterministic Algorithm for the International Timetabling Competition",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/7f57f4b7e7933e77f2f9c5ac2bc247a7a9beec2d",
+        "year": "2010"
+    },
     "7fdfba9c378f3141bfbe67009361a6ca8c3ce0bf": {
-        "abstract": "S2 TL;DR: The main state-of-the-art results on the selected benchmarks, in terms of solution quality, search techniques, running times, statistical distributions, and other side settings are reported.",
+        "abstract": "",
         "arxivid": "2201.07525",
         "author": "Sara Ceschia and L. Gaspero and Andrea Schaerf",
         "doi": "10.1016/j.ejor.2022.07.011",
@@ -271,15 +804,27 @@
         "year": "2022"
     },
     "81805f7c0f8ec745593406b7c21592d7d7498bab": {
-        "abstract": "Educational timetabling is an ongoing challenging administrative task that is required in most academic institutions. This is mainly due to a large number of constraints and requirements that have to be satisfied. Educational timetabling problems have been classified as NP-hard problems and can be divided into three types: exam timetabling, course timetabling and high school timetabling. The domain of high school timetabling is not well developed when compared to other fields of educational timetabling such as university exam timetabling and course timetabling. As the evolution of the educational systems are continuous, new challenges often arise, requiring new models and solution methodologies. Over the years, a number of methodologies have been developed to address high school timetabling problems. However, there are no comparative studies or rigorous analysis of these methodologies. This survey paper aims to provide a scientific review of high school timetabling. The paper presents a categorisation of the methodologies conducted in recent years based on chronology, category and application (dataset). We first present comparative studies on the success of proposed methodologies. The components and mechanisms of different methodologies are analysed and compared. We also discuss their performance, advantages, disadvantages and potential for improvement. Methodology wise, a shift of popularity from meta-heuristic to mathematical optimisation is observed in recent years. Another observation is that more researchers are opting for XHSTT formatted datasets as a testbed for their algorithms. Finally, we outline the industrial perspective, trends and future direction in high school timetabling optimisation problems.",
+        "abstract": "",
         "author": "Joo Siang Tan and Say Leng Goh and Graham Kendall and Nasser R. Sabar",
         "title": "Expert Systems With Applications",
         "type": "article",
         "url": "https://www.semanticscholar.org/paper/81805f7c0f8ec745593406b7c21592d7d7498bab",
         "year": "null"
     },
+    "84226d6fc43cf79e673b192b5cd335fc45e6278e": {
+        "abstract": "",
+        "author": "Matias S\u00f8rensen and Florian Dahms",
+        "doi": "10.1016/j.cor.2013.08.025",
+        "journal": "Comput. Oper. Res.",
+        "pages": "36-49",
+        "title": "A Two-Stage Decomposition of High School Timetabling applied to cases in Denmark",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/84226d6fc43cf79e673b192b5cd335fc45e6278e",
+        "volume": "43",
+        "year": "2014"
+    },
     "84509d4f751ba0e38197bea45e0f0ff2fcb941bd": {
-        "abstract": "Despite significant research efforts for School Timetabling Problem (STP) and other timetabling problems, an effective solution approach (model and algorithm) which provides boundless use and high quality solution has not been developed. Hence, this paper presents a novel solution approach for solving school timetabling problem which characterizes the problem-setting in the timetabling problem of the high school system in Nigeria. We developed a mixed integer linear programming model and meta-heuristic method Enhanced Simulated Annealing (ESA) algorithm. Our method Original Research Article Odeniyi et al.; AJRCOS, 5(3): 21-38, 2020; Article no.AJRCOS.55744 22 incorporates specific features of Simulated Annealing (SA) and Genetic Algorithms (GA) in order to solve the school timetabling problem. Both our solution approach and SA approach were implemented using Matrix Laboratory 8.6 software. In order to validate and demonstrate the performance of the developed solution approach, it was tested with the highly constrained school timetabling datasets provided by a Nigerian high school using constraints violation, simulation time and solution cost as evaluation metrics. Our developed solution approach is able to find optimal solution as it satisfied all the specified hard and soft constraints with average simulation time of 37.91 and 42.16 seconds and solution cost of 17.03 and 18.99, respectively, for JSS and SSS to the problem instance. A comparison with results obtained with SA approach shows that the developed solution approach produced optimal solution in smaller simulation time and solution cost, and has a great potential to solve school timetabling problems with satisfactory results. The developed ESA algorithm can be used for solving other related optimization problems.",
+        "abstract": "",
         "author": "O. Odeniyi and E. Omidiora and S. Olabiyisi and C. Oyeleye",
         "doi": "10.9734/ajrcos/2020/v5i330136",
         "title": "A Mathematical Programming Model and Enhanced Simulated Annealing Algorithm for the School Timetabling Problem",
@@ -287,8 +832,127 @@
         "url": "https://www.semanticscholar.org/paper/84509d4f751ba0e38197bea45e0f0ff2fcb941bd",
         "year": "2020"
     },
+    "84ce50372373a57168f68ecd9cb1bce247ed044c": {
+        "abstract": "",
+        "author": "Guisen Xue and O. Offodile and Rouzbeh Razavi and Dong-Heon Kwak and Jose Benitez",
+        "doi": "10.1016/j.dss.2024.114345",
+        "journal": "Decis. Support Syst.",
+        "pages": "114345",
+        "title": "Addressing staffing challenges through improved planning: Demand-driven course schedule planning and instructor assignment in higher education",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/84ce50372373a57168f68ecd9cb1bce247ed044c",
+        "volume": "187",
+        "year": "2024"
+    },
+    "872cf86f570af91fdc02269e702e7b1b3e078cba": {
+        "abstract": "",
+        "author": "L. Gaspero and Andrea Schaerf and B. McCollum",
+        "title": "The Second International Timetabling Competition (ITC-2007): Curriculum-based Course Timetabling (Track 3) \u2014 preliminary presentation \u2014",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/872cf86f570af91fdc02269e702e7b1b3e078cba",
+        "year": "2007"
+    },
+    "887039575de044938e61e79a6706963a3feaac28": {
+        "abstract": "",
+        "author": "Brian M. Autry",
+        "title": "University course timetabling with probability collectives",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/887039575de044938e61e79a6706963a3feaac28",
+        "year": "2008"
+    },
+    "90368bbabe0eadec5a052ea55ebed8152423305b": {
+        "abstract": "",
+        "author": "Rhyd Lewis",
+        "doi": "10.1007/S00291-007-0097-0",
+        "journal": "OR Spectrum",
+        "pages": "167-190",
+        "title": "A survey of metaheuristic-based techniques for University Timetabling problems",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/90368bbabe0eadec5a052ea55ebed8152423305b",
+        "volume": "30",
+        "year": "2007"
+    },
+    "92456dfd73ada20604e532599d0ee2f6d717ac26": {
+        "abstract": "",
+        "author": "Marco Chiarandini and Krzysztof Socha and M. Birattari and Olivia Rossi-Doria",
+        "title": "International timetabling competition: A hybrid approach",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/92456dfd73ada20604e532599d0ee2f6d717ac26",
+        "year": "2003"
+    },
+    "92c3b67d8f723b45dc136ba2688f6e2bb85026b1": {
+        "abstract": "",
+        "author": "James Sakal and J. Fieldsend and E. Keedwell",
+        "doi": "10.1145/3583133.3596334",
+        "journal": "Proceedings of the Companion Conference on Genetic and Evolutionary Computation",
+        "pages": "null",
+        "title": "Genotype Diversity Measures for Escaping Plateau Regions in University Course Timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/92c3b67d8f723b45dc136ba2688f6e2bb85026b1",
+        "volume": "null",
+        "year": "2023"
+    },
+    "92cade8b5189ca4f28a4a1f8718f3f3dde8f1972": {
+        "abstract": "",
+        "author": "Simon Kristiansen and Matias S\u00f8rensen and Thomas J. R. Stidsen",
+        "doi": "10.1007/s10951-014-0405-x",
+        "journal": "Journal of Scheduling",
+        "pages": "377 - 392",
+        "title": "Integer programming for the generalized high school timetabling problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/92cade8b5189ca4f28a4a1f8718f3f3dde8f1972",
+        "volume": "18",
+        "year": "2014"
+    },
+    "92f8bcf95d7ebffe6f7e52bdebd321b3b6b9292f": {
+        "abstract": "",
+        "author": "George H. G. Fonseca and H. Santos and Eduardo G. Carrano",
+        "doi": "10.1007/s10951-015-0458-5",
+        "journal": "Journal of Scheduling",
+        "pages": "453 - 465",
+        "title": "Late acceptance hill-climbing for high school timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/92f8bcf95d7ebffe6f7e52bdebd321b3b6b9292f",
+        "volume": "19",
+        "year": "2015"
+    },
+    "943d86b06562ce11c323e66e6ab4c6d3f4e8498d": {
+        "abstract": "",
+        "author": "K. Alaykiran and M. Hacibeyoglu",
+        "journal": "International Journal of Engineering and Applied Sciences",
+        "pages": "null",
+        "title": "Using Iterated Local Search to Solve the Course Timetabling Problem at Engineering Faculty of Necmettin Erbakan University",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/943d86b06562ce11c323e66e6ab4c6d3f4e8498d",
+        "volume": "3",
+        "year": "2016"
+    },
+    "993957f29afe413eaa13585dd0f3308ac9a841dc": {
+        "abstract": "",
+        "author": "H. Santos and Eduardo Uchoa and L. Ochi and N. Maculan",
+        "doi": "10.1007/s10479-010-0709-y",
+        "journal": "Annals of Operations Research",
+        "pages": "399-412",
+        "title": "Strong bounds with cut and column generation for\u00a0class-teacher timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/993957f29afe413eaa13585dd0f3308ac9a841dc",
+        "volume": "194",
+        "year": "2012"
+    },
+    "9a400129c40d365cf6830132dd5975194e674bc8": {
+        "abstract": "",
+        "author": "Chee Hung Wong and Say Leng Goh and Jonathan Likoh",
+        "doi": "10.1109/CSPA55076.2022.9781907",
+        "journal": "2022 IEEE 18th International Colloquium on Signal Processing & Applications (CSPA)",
+        "pages": "46-50",
+        "title": "A Genetic Algorithm for the Real-world University Course Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/9a400129c40d365cf6830132dd5975194e674bc8",
+        "volume": "null",
+        "year": "2022"
+    },
     "9df8d1271bd50c467cd60fcbbd0676ad6fcdff61": {
-        "abstract": "null",
+        "abstract": "",
         "author": "Sina Abdipoor and R. Yaakob and Say Leng Goh and S. Abdullah",
         "doi": "10.1016/j.iswa.2023.200253",
         "journal": "Intell. Syst. Appl.",
@@ -299,33 +963,77 @@
         "volume": "19",
         "year": "2023"
     },
-    "PATAT18-ITC19": {
-        "author": "Tom\\'a\\v{s} M\\\"uller and Hana Rudov\\'{a} and Zuzana M\\\"ullerov\\'a",
-        "booktitle": "\"Proceedings of the 12th International Conference on the Practice and Theory of Automated Timetabling (PATAT-2018)\",",
-        "editor": "Burke, Edmund K. and Di Gaspero, Luca and McCollum, Barry and Musliu, Nysret and \\\"Ozcan, Ender",
-        "keywords": "University course timetabling, Competition, Real-world problems",
-        "pages": "\"5--31\",",
-        "title": "\"University course timetabling and International Timetabling Competition 2019\",",
-        "type": "INPROCEEDINGS",
-        "year": "2018"
-    },
-    "Strnad08022007": {
-        "abstract": " In the paper, we present a new architecture and implementation of a multi-agent system for university timetable generation. Agents as representatives of individual courses have the task of allocating the necessary human and technical resources through negotiation. We define the negotiation protocol and describe autonomous decisions of agents within the prescribed framework. The advantages of the multi-agent approach are a direct resolution of conflicts, strategic versatility of negotiation, and natural representation of some real-life problems.",
-        "author": "Damjan Strnad and Nikola Guid and",
-        "doi": "10.1080/08839510601147554",
-        "eprint": "https://doi.org/10.1080/08839510601147554",
-        "journal": "Applied Artificial Intelligence",
-        "number": "2",
-        "pages": "137--153",
-        "publisher": "Taylor \\& Francis",
-        "title": "A Multi-agent System for University Course Timetabling",
+    "a288db8a9557d288ef9a78a74d4b057d7efad6cc": {
+        "abstract": "",
+        "author": "S. Daskalaki and Theodore Birbas and E. Housos",
+        "doi": "10.1016/S0377-2217(03)00103-6",
+        "journal": "Eur. J. Oper. Res.",
+        "pages": "117-135",
+        "title": "An integer programming formulation for a case study in university timetabling",
         "type": "article",
-        "url": "https://doi.org/10.1080/08839510601147554",
-        "volume": "21",
-        "year": "2007"
+        "url": "https://www.semanticscholar.org/paper/a288db8a9557d288ef9a78a74d4b057d7efad6cc",
+        "volume": "153",
+        "year": "2004"
+    },
+    "a35e372509c0483436193870d23ba79768b23b99": {
+        "abstract": "",
+        "author": "M. Geiger",
+        "doi": "10.1007/978-3-642-01020-0_25",
+        "title": "Multi-criteria Curriculum-Based Course Timetabling-A Comparison of a Weighted Sum and a Reference Point Based Approach",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/a35e372509c0483436193870d23ba79768b23b99",
+        "year": "2009"
+    },
+    "a3e6fb63cc861ba317e8b835e5378dc2f94e471e": {
+        "abstract": "",
+        "author": "Rooszana A Rahman and J. Wahid and A. Wahab and Syahida Hassan and Rahayu Ahmad and Azizah Ahmad",
+        "doi": "10.1109/AiIC54368.2022.9914034",
+        "journal": "2022 Applied Informatics International Conference (AiIC)",
+        "pages": "190-195",
+        "title": "Systematic Literature Review of Metaheuristic Methodologies for High School Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/a3e6fb63cc861ba317e8b835e5378dc2f94e471e",
+        "volume": "null",
+        "year": "2022"
+    },
+    "a4f9e652594081918e0369b1d5a33aaffa65e62b": {
+        "abstract": "",
+        "author": "\u00c1rton P. Dorneles and O. Ara\u00fajo and L. Buriol",
+        "doi": "10.1016/j.cor.2014.06.023",
+        "journal": "Comput. Oper. Res.",
+        "pages": "29-38",
+        "title": "A fix-and-optimize heuristic for the high school timetabling problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/a4f9e652594081918e0369b1d5a33aaffa65e62b",
+        "volume": "52",
+        "year": "2014"
+    },
+    "a56f297fe1c45a4d28d113878077fd695f263143": {
+        "abstract": "",
+        "author": "I. Gusti and Agung Premananda and A. Tjahyanto and Ahmad Muklason",
+        "doi": "10.1109/CyberneticsCom55287.2022.9865647",
+        "journal": "2022 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom)",
+        "pages": "317-322",
+        "title": "Hybrid Whale Optimization Algorithm for Solving Timetabling Problems of ITC 2019",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/a56f297fe1c45a4d28d113878077fd695f263143",
+        "volume": "null",
+        "year": "2022"
+    },
+    "a613189c655c4ddd56e47d806d387cbbbdad7438": {
+        "abstract": "",
+        "author": "George H. G. Fonseca and H. Santos",
+        "doi": "10.1016/j.cor.2013.11.012",
+        "journal": "Comput. Oper. Res.",
+        "pages": "203-208",
+        "title": "Variable Neighborhood Search based algorithms for high school timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/a613189c655c4ddd56e47d806d387cbbbdad7438",
+        "volume": "52",
+        "year": "2014"
     },
     "a796f7bec672cb187a7ecccaa4cfbef7e9f16b4c": {
-        "abstract": "S2 TL;DR: A PSO-based algorithm that hybridized Particle Swarm Optimization and Hill Climbing is applied to high school timetabling problem, which shows that the proposed algorithm is effective in solving small and medium instances compared to standalone HC and better than the conventional PSO for most instances.",
+        "abstract": "",
         "author": "Joo Siang Tan and Say Leng Goh and S. Sura and G. Kendall and Nasser R. Sabar",
         "doi": "10.1007/s12065-020-00473-x",
         "journal": "Evolutionary Intelligence",
@@ -337,7 +1045,7 @@
         "year": "2020"
     },
     "a80c7e1a187dde4aa59119aa7f14ad1d514c9814": {
-        "abstract": "S2 TL;DR: This work introduces a complex variant of the timetabling problem, which is motivated by the case of Italian schools, and presents an integer programming model for this problem, denoted by Italian High School Timetabling Problem (IHSTP).",
+        "abstract": "",
         "author": "Claudio Crobu and M. D. Francesco and E. Gorgone",
         "doi": "10.1016/j.cor.2022.105980",
         "journal": "Comput. Oper. Res.",
@@ -348,8 +1056,101 @@
         "volume": "148",
         "year": "2022"
     },
+    "a89610ceb017e0417d0a080e554e85d6ed35608f": {
+        "abstract": "",
+        "author": "Sami Ahmed Haider and Khwaja Mutahir Ahmad and Adnan Zahid and Azzah Alghamdi and Ismail Keshta and Mukesh Soni",
+        "doi": "10.1145/3702386.3702398",
+        "journal": "Proceedings of the 2024 International Conference on Artificial Intelligence and Teacher Education",
+        "pages": "null",
+        "title": "Genetic and Deep Reinforcement Learning-Based Intelligent Course Scheduling for Smart Education",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/a89610ceb017e0417d0a080e554e85d6ed35608f",
+        "volume": "null",
+        "year": "2024"
+    },
+    "ae03035135d108ec061798b11551ac69c534680a": {
+        "abstract": "",
+        "author": "Kewei Xiang and Xinyao Hu and Mingzheng Yu and Xingyu Wang",
+        "doi": "10.1016/j.eswa.2024.123383",
+        "journal": "Expert Syst. Appl.",
+        "pages": "123383",
+        "title": "Exact and heuristic methods for a university course scheduling problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/ae03035135d108ec061798b11551ac69c534680a",
+        "volume": "248",
+        "year": "2024"
+    },
+    "ae72e9a2cb2725fbe633b10ae0c17e918d120144": {
+        "abstract": "",
+        "author": "P. Kostuch",
+        "doi": "10.1007/11593577_7",
+        "title": "The University Course Timetabling Problem with a Three-Phase Approach",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/ae72e9a2cb2725fbe633b10ae0c17e918d120144",
+        "year": "2004"
+    },
+    "aeedc0ac964ea35ecff6662741a6ca3265e3765f": {
+        "abstract": "",
+        "author": "B. McCollum and Andrea Schaerf and B. Paechter and P. McMullan and Rhyd Lewis and A. Parkes and L. Gaspero and Rong Qu and E. Burke",
+        "doi": "10.1287/ijoc.1090.0320",
+        "journal": "INFORMS J. Comput.",
+        "pages": "120-130",
+        "title": "Setting the Research Agenda in Automated Timetabling: The Second International Timetabling Competition",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/aeedc0ac964ea35ecff6662741a6ca3265e3765f",
+        "volume": "22",
+        "year": "2010"
+    },
+    "b0ee6ac868abe08a6910674e9730773c5e8bc450": {
+        "abstract": "",
+        "author": "Oscar Ch\u00e1vez-Bosquez and Maria del Pilar Pozos Parra and F. Lengyel",
+        "doi": "10.3233/FI-2011-596",
+        "journal": "Fundam. Informaticae",
+        "pages": "1-18",
+        "title": "Solving the International Timetabling Competition: a Deterministic Approach",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/b0ee6ac868abe08a6910674e9730773c5e8bc450",
+        "volume": "113",
+        "year": "2011"
+    },
+    "b0fa3e9a397659e538136ac676df11fcddc9f41b": {
+        "abstract": "",
+        "author": "S. A. MirHassani",
+        "doi": "10.1016/j.amc.2005.07.039",
+        "journal": "Appl. Math. Comput.",
+        "pages": "814-822",
+        "title": "A computational approach to enhancing course timetabling with integer programming",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/b0fa3e9a397659e538136ac676df11fcddc9f41b",
+        "volume": "175",
+        "year": "2006"
+    },
+    "b2a50cd6e17fc53cd3cec3a572b1abc827b7aa2f": {
+        "abstract": "",
+        "author": "G. Post and L. Gaspero and Jeffrey H. Kingston and B. McCollum and Andrea Schaerf",
+        "doi": "10.1007/s10479-013-1340-5",
+        "journal": "Annals of Operations Research",
+        "pages": "69 - 75",
+        "title": "The Third International Timetabling Competition",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/b2a50cd6e17fc53cd3cec3a572b1abc827b7aa2f",
+        "volume": "239",
+        "year": "2012"
+    },
+    "b2a9bd3f7e7de33576ead5bf43bb001d830975ee": {
+        "abstract": "",
+        "author": "Tio Arya and Dewa Prakasa and Ahmad Muklason and Gusti Agung Premananda",
+        "doi": "10.1109/ISITIA63062.2024.10668040",
+        "journal": "2024 International Seminar on Intelligent Technology and Its Applications (ISITIA)",
+        "pages": "214-219",
+        "title": "Automating School Timetabling: An Intelligent System Application Using Simulated Annealing",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/b2a9bd3f7e7de33576ead5bf43bb001d830975ee",
+        "volume": "null",
+        "year": "2024"
+    },
     "b4fe81bb66d3b4ff3be04a1e8d8ac16755020c5d": {
-        "abstract": "S2 TL;DR: This paper proposes two pattern-based formulations and a solution algorithm that simultaneously exploits column generation and a team of metaheuristics to build and improve solutions for solving high school timetabling problems with compactness and balancing requirements.",
+        "abstract": "",
         "author": "Landir Saviniec and M. Santos and Alysson M. Costa and L. M. R. D. Santos",
         "doi": "10.1016/J.EJOR.2019.08.001",
         "journal": "Eur. J. Oper. Res.",
@@ -361,7 +1162,7 @@
         "year": "2020"
     },
     "b5bb66c51225ed5310fa7de6e4e059663eaf1b03": {
-        "abstract": "Abstract University course timetabling belongs to classical problems which have been studied for many years by many researchers. This paper will outline existing research and emphasize new research directions and challenges in this area. It is clear that the organization of international competitions has a high impact on the timetabling research. We intend to discuss the organization of the new International Timetabling Competition (ITC 2019) with the aim to motivate further research on complex university course timetabling problems coming from practice. Our goal is the creation of rich real-world data sets. Thanks to the UniTime timetabling system, we can collect a strong set of data with diverse characteristics which we will discuss in the paper. The key novelty lies in the combination of student sectioning together with standard time and room assignment of events in courses. To make the problems more attractive, we remove some of the less important aspects of the real-life data while retaining the computational complexity of the problems.",
+        "abstract": "",
         "author": "Tom\u00e1s M\u00fcller and Hana Rudov\u00e1 and Zuzana M\u00fcllerov\u00e1",
         "title": "University course timetabling and International Timetabling Competition 2019",
         "type": "article",
@@ -369,7 +1170,7 @@
         "year": "2018"
     },
     "baa7df3848e54fe1fe1ee76389a732ee14f4f894": {
-        "abstract": "S2 TL;DR: This exploratory study considers two different parallel frameworks for high school timetabling and presents a thorough computational study in order to understand algorithmic decisions that are closely related to performance.",
+        "abstract": "",
         "author": "Landir Saviniec and M. Santos and Alysson M. Costa",
         "doi": "10.1016/j.ejor.2017.07.029",
         "journal": "Eur. J. Oper. Res.",
@@ -380,24 +1181,81 @@
         "volume": "265",
         "year": "2018"
     },
-    "bassenReinforcementLearningAdaptive2020": {
-        "address": "Honolulu HI USA",
-        "annotation": "TLDR: This paper demonstrates the first RL model to schedule educational activities in real time for a large online course through active learning, and produces similar learning gains to a self-directed condition using fewer educational activities and with lower dropout rates.",
-        "author": "Bassen, Jonathan and Balaji, Bharathan and Schaarschmidt, Michael and Thille, Candace and Painter, Jay and Zimmaro, Dawn and Games, Alex and Fast, Ethan and Mitchell, John C.",
-        "booktitle": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
-        "doi": "10.1145/3313831.3376518",
-        "isbn": "978-1-4503-6708-0",
-        "langid": "english",
-        "month": "apr,",
-        "pages": "1--12",
-        "publisher": "ACM",
-        "title": "Reinforcement Learning for the Adaptive Scheduling of Educational Activities",
-        "type": "inproceedings",
-        "urldate": "2025-05-06",
+    "bca5be823515a4a744dada1fee78f6954eb93d35": {
+        "abstract": "",
+        "author": "Alexandre Lemos and Pedro T. Monteiro and I. Lynce",
+        "title": "ITC 2019 : University Course Timetabling with MaxSAT",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/bca5be823515a4a744dada1fee78f6954eb93d35",
         "year": "2020"
     },
+    "bce83f5fc7d613d51d984e0cd63d0add20e5cb61": {
+        "abstract": "",
+        "author": "Olivia Rossi-Doria and B. Paechter",
+        "title": "A memetic algorithm for University Course Timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/bce83f5fc7d613d51d984e0cd63d0add20e5cb61",
+        "year": "2004"
+    },
+    "bd1aaf14b485c653a5e558a878bcf3d23e38c0d7": {
+        "abstract": "",
+        "author": "D. Jak\u00f3bczak and T. He and Suresh Nandakumar and R. Sam and G. Pulla",
+        "title": "Greedy Ants Colony Optimization Strategy for Solving the Curriculum Based University Course Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/bd1aaf14b485c653a5e558a878bcf3d23e38c0d7",
+        "year": "2016"
+    },
+    "c03d0d024e7b5e3397a1749dabcbd46d804e572c": {
+        "abstract": "",
+        "author": "George H. G. Fonseca and Samuel S. Brito and H. Santos",
+        "doi": "10.1007/978-3-642-32639-4_66",
+        "title": "A Simulated Annealing Based Approach to the High School Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/c03d0d024e7b5e3397a1749dabcbd46d804e572c",
+        "year": "2012"
+    },
+    "c283dd4ed9c580cfbf153b2a6c734c9e2c335076": {
+        "abstract": "",
+        "author": "Xin Gu and Muralee Krish and S. Sohail and S. Thakur and Fariza Sabrina and Zongwen Fan",
+        "doi": "10.3390/computation13010010",
+        "journal": "Computation",
+        "pages": "null",
+        "title": "From Integer Programming to Machine Learning: A Technical Review on Solving University Timetabling Problems",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/c283dd4ed9c580cfbf153b2a6c734c9e2c335076",
+        "volume": "null",
+        "year": "2025"
+    },
+    "c6e414d76dbb0821543a49feb9a37097a18a479e": {
+        "abstract": "",
+        "author": "R. Bellio and Sara Ceschia and L. Gaspero and Andrea Schaerf and Tommaso Urli",
+        "title": "A simulated annealing approach to the curriculum-based course timetabling problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/c6e414d76dbb0821543a49feb9a37097a18a479e",
+        "year": "2013"
+    },
+    "c82cd49bc420e883af0cd59f05d6b88048169af4": {
+        "abstract": "",
+        "author": "Olivia Rossi-Doria and B. Paechter",
+        "title": "An opinion algorithm for university course timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/c82cd49bc420e883af0cd59f05d6b88048169af4",
+        "year": "null"
+    },
+    "c912506ef68a74138180f2e11ed3f533dbb46bb5": {
+        "abstract": "",
+        "author": "M. Dimopoulou and P. Miliotis",
+        "doi": "10.1016/S0377-2217(00)00052-7",
+        "journal": "Eur. J. Oper. Res.",
+        "pages": "202-213",
+        "title": "Implementation of a university course and examination timetabling system",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/c912506ef68a74138180f2e11ed3f533dbb46bb5",
+        "volume": "130",
+        "year": "2001"
+    },
     "ca29ca9059bbc860002c2c4ec0c4ff1e1e70df91": {
-        "abstract": "In this contribution a comparative study of modern heuristics on the school timetabling problem is presented. More precisely, we investigate the application of two population-based algorithms, namely a Particle Swarm Optimization (PSO) and an Artificial Fish Swarm (AFS), on the high school timetabling problem. In order to demonstrate their efficiency and performance, experiments with real-world input data have been performed. Both algorithms proposed manage to create feasible and efficient high school timetables, thus fulfilling adequately the timetabling needs of the respective high schools. Computational results demonstrate that both algorithms manage to reach efficient solutions, most of the times better than existing approaches applied to the same school timetabling input instances using the same evaluation criteria.",
+        "abstract": "",
         "author": "Iosif V. Katsaragakis and Ioannis X. Tassopoulos and G. Beligiannis",
         "doi": "10.3390/a8030723",
         "journal": "Algorithms",
@@ -408,28 +1266,37 @@
         "volume": "8",
         "year": "2015"
     },
-    "ceschiaEducationalTimetablingProblems2023": {
-        "abstract": "We propose a survey of the research contributions on the field of Educational Timetabling with a specific focus on \"standard\" formulations and the corresponding benchmark instances. We identify six of such formulations and we discuss their features, pointing out their relevance and usability. Other available formulations and datasets are also reviewed and briefly discussed. Subsequently, we report the main state-of-the-art results on the selected benchmarks, in terms of solution quality (upper and lower bounds), search techniques, running times, statistical distributions, and other side settings.",
-        "archiveprefix": "arXiv",
-        "author": "Ceschia, Sara and Gaspero, Luca Di and Schaerf, Andrea",
-        "doi": "10.1016/j.ejor.2022.07.011",
-        "eprint": "2201.07525",
-        "issn": "03772217",
-        "journal": "European Journal of Operational Research",
-        "keywords": "Computer Science - Artificial Intelligence, Computer Science - Discrete Mathematics",
-        "month": "jul,",
-        "number": "1",
-        "pages": "1--18",
-        "primaryclass": "cs",
-        "shorttitle": "Educational Timetabling",
-        "title": "Educational Timetabling: Problems, Benchmarks, and State-of-the-Art Results",
+    "cd0284fc1a3dd166cf47ddcd41dab2b1853ee70c": {
+        "abstract": "",
+        "author": "N. A. H. Aizam",
+        "title": "Effective computational models for timetabling problem",
         "type": "article",
-        "urldate": "2025-04-22",
-        "volume": "308",
-        "year": "2023"
+        "url": "https://www.semanticscholar.org/paper/cd0284fc1a3dd166cf47ddcd41dab2b1853ee70c",
+        "year": "2013"
+    },
+    "cd0eb0f03c93888c0f1bc36e77616010f202a479": {
+        "abstract": "",
+        "author": "Cheng Weng Fong and H. Asmuni and W. S. Lam and B. McCollum and P. McMullan",
+        "doi": "10.1109/CEC.2014.6900453",
+        "journal": "2014 IEEE Congress on Evolutionary Computation (CEC)",
+        "pages": "544-550",
+        "title": "A novel hybrid swarm based approach for curriculum based course timetabling problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/cd0eb0f03c93888c0f1bc36e77616010f202a479",
+        "volume": "null",
+        "year": "2014"
+    },
+    "ce5d9eacbe6b9be88f961311c110dae31d3360d7": {
+        "abstract": "",
+        "author": "E.H. Kampke and Leonardo Moreli Scheideger and G. R. Mauri and M. C. Boeres",
+        "doi": "10.1007/978-3-030-24302-9_16",
+        "title": "A Network Flow Based Construction for a GRASP + SA Algorithm to Solve the University Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/ce5d9eacbe6b9be88f961311c110dae31d3360d7",
+        "year": "2019"
     },
     "cf6984fb7201286c7e0adb75df8f22b8d980c5cc": {
-        "abstract": "S2 TL;DR: This paper proposes a model for the Chinese high school timetabling problems (CHSTPs) under the new curriculum innovation which was launched in 2014 by the Chinese government, and designs a new two-part representation for the candidate solution.",
+        "abstract": "",
         "author": "Xingxing Hao and Jing Liu and Yutong Zhang and Gustaph Sanga",
         "doi": "10.1007/s11704-020-9102-4",
         "journal": "Frontiers of Computer Science",
@@ -440,8 +1307,65 @@
         "volume": "15",
         "year": "2020"
     },
+    "d0663e7597cbf385a021634666d17def5b4f7b34": {
+        "abstract": "",
+        "author": "Khalid Shaker and S. Abdullah",
+        "doi": "10.1109/DMO.2009.5341894",
+        "journal": "2009 2nd Conference on Data Mining and Optimization",
+        "pages": "149-153",
+        "title": "Incorporating great deluge approach with kempe chain neighbourhood structure for curriculum-based course timetabling problems",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/d0663e7597cbf385a021634666d17def5b4f7b34",
+        "volume": "null",
+        "year": "2009"
+    },
+    "d081b0624cf0449ccc8ca7765432538ca8828470": {
+        "abstract": "",
+        "author": "A. Kheiri and E. Keedwell",
+        "doi": "10.1162/evco_a_00186",
+        "journal": "Evolutionary Computation",
+        "pages": "473-501",
+        "pmid": "27258841",
+        "title": "A Hidden Markov Model Approach to the Problem of Heuristic Selection in Hyper-Heuristics with a Case Study in High School Timetabling Problems",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/d081b0624cf0449ccc8ca7765432538ca8828470",
+        "volume": "25",
+        "year": "2016"
+    },
+    "d09f75f5127acada06ff39547c5072be879c850c": {
+        "abstract": "",
+        "author": "S. Al-Yakoob and H. Sherali",
+        "doi": "10.1016/j.cor.2015.02.011",
+        "journal": "Comput. Oper. Res.",
+        "pages": "56-68",
+        "title": "Mathematical models and algorithms for a high school timetabling problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/d09f75f5127acada06ff39547c5072be879c850c",
+        "volume": "61",
+        "year": "2015"
+    },
+    "d1411c3dd827cca5295b1bed515df11c5af0f7d9": {
+        "abstract": "",
+        "author": "Efstratios Rappos and \u00b7. EricThi\u00b4emard and Stephan Robert and Jean-Franc\u00b8ois H\u02c6eche",
+        "title": "International Timetabling Competition 2019: A Mixed Integer Programming Approach for Solving University Timetabling Problems",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/d1411c3dd827cca5295b1bed515df11c5af0f7d9",
+        "year": "2021"
+    },
+    "d24147e25544c32f2d92fdf9ca7e4dea0f6a40bf": {
+        "abstract": "",
+        "author": "Z. Iqbal and R. Ilyas and H. Chan and Naveed Ahmed",
+        "doi": "10.21123/bsj.2021.18.4(suppl.).1465",
+        "journal": "Baghdad Science Journal",
+        "pages": "null",
+        "title": "Effective Solution of University Course Timetabling using Particle Swarm Optimizer based Hyper Heuristic approach",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/d24147e25544c32f2d92fdf9ca7e4dea0f6a40bf",
+        "volume": "null",
+        "year": "2021"
+    },
     "d28cd361d85614e3eaf2292ae449212a9c7d5413": {
-        "abstract": "S2 TL;DR: The proposed approach is able to obtain improved lower bounds on real-world benchmark instances from the literature, used in the international timetabling competitions ITC2002 and ITC2007, proving for the first time that some of the best-known heuristic solutions are indeed optimal (or close to the optimal ones).",
+        "abstract": "",
         "author": "Valentina Cacchiani and A. Caprara and R. Roberti and P. Toth",
         "doi": "10.1016/j.cor.2013.02.010",
         "journal": "Comput. Oper. Res.",
@@ -452,8 +1376,32 @@
         "volume": "40",
         "year": "2013"
     },
+    "d3c75fd83a817c06a6b338f9bf3f0d3b4c93cd6e": {
+        "abstract": "",
+        "author": "Tom\u00e1s M\u00fcller",
+        "doi": "10.1007/s10479-009-0644-y",
+        "journal": "Annals of Operations Research",
+        "pages": "429-446",
+        "title": "ITC2007 solver description: a hybrid approach",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/d3c75fd83a817c06a6b338f9bf3f0d3b4c93cd6e",
+        "volume": "172",
+        "year": "2009"
+    },
+    "d3d15096e30b419dd485249b5e6954abcf695dc6": {
+        "abstract": "",
+        "author": "Marco Chiarandini and M. Birattari and Krzysztof Socha and Olivia Rossi-Doria",
+        "doi": "10.1007/s10951-006-8495-8",
+        "journal": "Journal of Scheduling",
+        "pages": "403-432",
+        "title": "An effective hybrid algorithm for university course timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/d3d15096e30b419dd485249b5e6954abcf695dc6",
+        "volume": "9",
+        "year": "2006"
+    },
     "d78aebf0ee0d096b0ca1102b8e18265f339c470a": {
-        "abstract": "S2 TL;DR: The complete parallelized matheuristic performs well, even solving some instances to proven optimality, and is the winning algorithm of the ITC 2019, further demonstrating its quality.",
+        "abstract": "",
         "author": "R. Mikkelsen and Dennis S. Holm",
         "doi": "10.1007/s10951-022-00728-8",
         "journal": "Journal of Scheduling",
@@ -464,25 +1412,36 @@
         "volume": "25",
         "year": "2022"
     },
-    "dunkeMatheuristicCustomizedMultilevel2023": {
-        "abstract": "Course timetables are the organizational foundation of a university's educational program. While students and lecturers perceive timetable quality individually according to their preferences, there are also collective criteria derived normatively such as balanced workloads or idle time avoidance. A recent challenge and opportunity in curriculum-based timetabling consists of customizing timetables with respect to individual student preferences and with respect to integrating online courses as part of modern course programs or in reaction to flexibility requirements as posed in pandemic situations. Curricula consisting of (large) lectures and (small) tutorials further open the possibility for optimizing not only the lecture and tutorial plan for all students but also the assignments of individual students to tutorial slots. In this paper, we develop a multi-level planning process for university timetabling: On the tactical level, a lecture and tutorial plan is determined for a set of study programs; on the operational level, individual timetables are generated for each student interlacing the lecture plan through a selection of tutorials from the tutorial plan favoring individual preferences. We utilize this mathematical-programming-based planning process as part of a matheuristic which implements a genetic algorithm in order to improve lecture plans, tutorial plans, and individual timetables so as to find an overall university program with well-balanced timetable performance criteria. Since the evaluation of the fitness function amounts to invoking the entire planning process, we additionally provide a proxy in the form of an artificial neural network metamodel. Computational results exhibit the procedure's capability of generating high quality schedules.",
-        "annotation": "TLDR: This paper develops a multi-level planning process for university timetabling which implements a genetic algorithm in order to improve lecture plans, tutorial plans, and individual timetables so as to find an overall university program with well-balanced timetable performance criteria.",
-        "author": "Dunke, Fabian and Nickel, Stefan",
-        "doi": "10.1007/s10479-023-05325-2",
-        "issn": "0254-5330, 1572-9338",
-        "journal": "Annals of Operations Research",
-        "langid": "english",
-        "month": "sep,",
-        "number": "2",
-        "pages": "1313--1348",
-        "title": "A Matheuristic for Customized Multi-Level Multi-Criteria University Timetabling",
+    "d832d73315a0971d640d0c005ceec4d428c5b5d6": {
+        "abstract": "",
+        "author": "Salwani Abdullah and H. Turabieh and B. McCollum and Edmund K. Burke",
+        "title": "An Investigation of a Genetic Algorithm and Sequential Local Search Approach for Curriculum-based Course Timetabling Problems",
         "type": "article",
-        "urldate": "2025-04-22",
-        "volume": "328",
-        "year": "2023"
+        "url": "https://www.semanticscholar.org/paper/d832d73315a0971d640d0c005ceec4d428c5b5d6",
+        "year": "2009"
+    },
+    "dd16144ff5da920ef4de2123767772c3934c362d": {
+        "abstract": "",
+        "author": "C. Akkan and Ayla G\u00fclc\u00fc and Zeki Ku\u015f",
+        "title": "Slack-based Robustness Estimators for the Curriculum-Based Course Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/dd16144ff5da920ef4de2123767772c3934c362d",
+        "year": "2020"
+    },
+    "dfa8cb350936936e155d9f77280a224763ec9ef8": {
+        "abstract": "",
+        "author": "Umar Rizki Kusumo Widayu and Ahmad Mukhlason and Ika Nurkasanah",
+        "doi": "10.1109/EIConCIT50028.2021.9431892",
+        "journal": "2021 3rd East Indonesia Conference on Computer and Information Technology (EIConCIT)",
+        "pages": "134-138",
+        "title": "Automation and Optimization of Course Timetabling Using the Iterated Local Search Hyper-Heuristic Algorithm with the Problem Domain from the 2019 International Timetabling Competition",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/dfa8cb350936936e155d9f77280a224763ec9ef8",
+        "volume": "null",
+        "year": "2021"
     },
     "e2711e78e38a381033a61cb134654488abc679c2": {
-        "abstract": "S2 TL;DR: This work designs a metaheuristic approach based on simulated annealing to solve the post-enrolment course timetabling problem, providing the new best known results on many instances and state-of-the-art values for the others.",
+        "abstract": "",
         "arxivid": "1104.2518",
         "author": "Sara Ceschia and L. Gaspero and Andrea Schaerf",
         "doi": "10.1016/j.cor.2011.09.014",
@@ -495,7 +1454,7 @@
         "year": "2011"
     },
     "e5e1d5c2d17c82fcd376b9a94259bc29c5b499a7": {
-        "abstract": "null",
+        "abstract": "",
         "author": "R. Bellio and Sara Ceschia and L. Gaspero and Andrea Schaerf",
         "doi": "10.1016/J.COR.2021.105300",
         "journal": "Comput. Oper. Res.",
@@ -507,7 +1466,7 @@
         "year": "2021"
     },
     "e650f42e3f67a142a9bda9616ee402b983c9793f": {
-        "abstract": "S2 TL;DR: It is shown that the reduction algorithm, combined with the graph-based MIP formulation, outperforms the MIP formulated by Holm et al. and thus becomes the new state-of-the-art MIP formulations for the ITC 2019.",
+        "abstract": "",
         "author": "Dennis S. Holm and R. Mikkelsen and Matias S\u00f8rensen and Thomas J. R. Stidsen",
         "doi": "10.1007/s10951-022-00724-y",
         "journal": "Journal of Scheduling",
@@ -518,8 +1477,32 @@
         "volume": "25",
         "year": "2022"
     },
+    "e6d0428719cfa46d9269efdaa0143b46935e5f23": {
+        "abstract": "",
+        "author": "Yanan Xiao and XiangLin Li and Lu Jiang and Pengfei Wang and Kaidi Wang and Na Luo",
+        "doi": "10.1109/ICDM59182.2024.00059",
+        "journal": "2024 IEEE International Conference on Data Mining (ICDM)",
+        "pages": "520-529",
+        "title": "Towards Dynamic University Course Timetabling Problem: An Automated Approach Augmented via Reinforcement Learning",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/e6d0428719cfa46d9269efdaa0143b46935e5f23",
+        "volume": "null",
+        "year": "2024"
+    },
+    "e77ec7ebc0f753586c8a3f2f30d8ac7b12247996": {
+        "abstract": "",
+        "author": "Elmar Steiner and Ulrich Pferschy and Andrea Schaerf",
+        "doi": "10.1007/s10100-024-00923-2",
+        "journal": "Central Eur. J. Oper. Res.",
+        "pages": "277-314",
+        "title": "Curriculum-based university course timetabling considering individual course of studies",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/e77ec7ebc0f753586c8a3f2f30d8ac7b12247996",
+        "volume": "33",
+        "year": "2024"
+    },
     "eb7721cea4897c08aff89cf8fcbb58b2dca91d96": {
-        "abstract": "S2 TL;DR: This paper develops a multi-level planning process for university timetabling which implements a genetic algorithm in order to improve lecture plans, tutorial plans, and individual timetables so as to find an overall university program with well-balanced timetable performance criteria.",
+        "abstract": "",
         "author": "Fabian Dunke and S. Nickel",
         "doi": "10.1007/s10479-023-05325-2",
         "journal": "Annals of Operations Research",
@@ -531,16 +1514,64 @@
         "volume": "null",
         "year": "2023"
     },
+    "ef939885aa5ffbd2aa3848f0f08fffddce6f1dcd": {
+        "abstract": "",
+        "author": "Samuel S. Brito and George H. G. Fonseca and T\u00falio A. M. Toffolo and H. Santos and M. Souza",
+        "doi": "10.1016/j.endm.2012.10.023",
+        "journal": "Electron. Notes Discret. Math.",
+        "pages": "169-176",
+        "title": "A SA-VNS approach for the High School Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/ef939885aa5ffbd2aa3848f0f08fffddce6f1dcd",
+        "volume": "39",
+        "year": "2012"
+    },
     "f1b7b5b767784bfb32106259d9678821a7b64bdc": {
-        "abstract": "Educational timetabling is one of the most researched subjects within the range of timetabling problems. There has been a signi cant increase in e cient planning problems within educational timetabling the last couple of decades. In this paper we will highlight some of the main trends and research achievements within educational planning problems. Furthermore it is an aim to make a di erentiation between the di erent planning problems. This survey is concentrated on the four main education planning problems; University Course Timetabling, High School Timetabling, Examination Timetabling and Student Sectioning. Firstly a presentation of educational timetabling and the main components is given. For each problem a description is given with appertaining benchmark data and recent research. The literature presented is mainly solution tested on real-life data or better yet implemented. Summarizing tables for each section are presented to give an overall view of all the literature of this survey.",
+        "abstract": "",
         "author": "Simon Kristiansen and Thomas J. R. Stidsen",
         "title": "A Comprehensive Study of Educational Timetabling - a Survey",
         "type": "article",
         "url": "https://www.semanticscholar.org/paper/f1b7b5b767784bfb32106259d9678821a7b64bdc",
         "year": "2013"
     },
+    "f1c421c633a1741e671e9f6012dbee4f697bfc4a": {
+        "abstract": "",
+        "author": "Angelos Dimitsas and Vasileios Nastos and Christos G Gogos and Christos Valouxis",
+        "doi": "10.1145/3575879.3575970",
+        "journal": "Proceedings of the 26th Pan-Hellenic Conference on Informatics",
+        "pages": "null",
+        "title": "An exact based approach for the Post Enrollment Course Timetabling Problem",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/f1c421c633a1741e671e9f6012dbee4f697bfc4a",
+        "volume": "null",
+        "year": "2022"
+    },
+    "f30a2ac32d4cfc111dda70a36cca281ccc79ef78": {
+        "abstract": "",
+        "author": "G. Post and Jeffrey H. Kingston and S. Ahmadi and S. Daskalaki and Christos G Gogos and J. Kyng\u00e4s and K. Nurmi and Nysret Musliu and N. Pillay and H. Santos and Andrea Schaerf",
+        "doi": "10.1007/s10479-011-1012-2",
+        "journal": "Annals of Operations Research",
+        "pages": "295 - 301",
+        "title": "XHSTT: an XML archive for high school timetabling problems in different countries",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/f30a2ac32d4cfc111dda70a36cca281ccc79ef78",
+        "volume": "218",
+        "year": "2011"
+    },
+    "f500830e236cf30c60a79dbd2536d7485a0f6eb7": {
+        "abstract": "",
+        "author": "E. Burke and Yuri Bykov and J. Newall and S. Petrovic",
+        "doi": "10.2298/YJOR0302139B",
+        "journal": "Yugoslav Journal of Operations Research",
+        "pages": "139-151",
+        "title": "A time-predefined approach to course timetabling",
+        "type": "article",
+        "url": "https://www.semanticscholar.org/paper/f500830e236cf30c60a79dbd2536d7485a0f6eb7",
+        "volume": "13",
+        "year": "2003"
+    },
     "f732f39d8e5c1a28695951af6022b2267834ff78": {
-        "abstract": "The timetabling problem, a well-known NP-Hard optimization challenge, spans multiple domains such as education, healthcare, sports, and transportation. Due to its computational complexity, heuristic methods have become the dominant method for solving these problems. However, a lack of consistent comparisons across studies has led to difficulties in evaluating the effectiveness of these algorithms. This paper provides a comprehensive survey of 64 studies published between 2012 and 2022, focusing on timetabling algorithms and their performance on established benchmarks. The algorithms are categorized into metaheuristics, hybrid metaheuristics, and hyper-heuristics, with their efficacy evaluated across six major benchmarks. The analysis highlights the superiority of single-solution-based metaheuristics, with Simulated Annealing emerging as the most effective algorithm, particularly for educational timetabling problems. Additionally, the challenge of developing generic algorithms capable of performing across different timetabling problem domains is addressed. Despite advances in the field, cross-domain adaptability remains a critical area for further exploration. This survey serves as a guide for future research, providing insights into algorithmic strategies that can enhance the efficiency and generalizability of solutions for timetabling problems.",
+        "abstract": "",
         "author": "I. Gusti and Agung Premananda and Aris Tjahyanto and Ahmad Muklason",
         "doi": "10.1109/ACCESS.2024.3463721",
         "journal": "IEEE Access",
@@ -551,123 +1582,25 @@
         "volume": "12",
         "year": "2024"
     },
-    "guIntegerProgrammingMachine2025": {
-        "abstract": "Solving the university timetabling problem is crucial as it ensures efficient use of resources, minimises scheduling conflicts, and enhances overall productivity. This paper presents a comprehensive review of university timetabling problems using integer programming algorithms. This study explores various integer programming techniques and their effectiveness in optimising complex scheduling requirements in higher education institutions. We analysed 95 integer programming-based models developed for solving university timetabling problems, covering relevant research from 1990 to 2023. The goal is to provide insights into the evolution of these algorithms and their impact on improving university scheduling. We identify that the implementation rate of models using integer programming is 98\\%, which is much higher than 34\\% implementation rates using metaheuristics algorithms from the existing review. The integer programming models are analysed by the problem types, solutions, tools, and datasets. For three types of timetabling problems including course timetabling, class timetabling, and exam timetabling, we dive deeper into the commercial solvers CPLEX (47), Gurobi (11), Lingo (5), Open Solver (4), C++ GLPK (4), AIMMS (2), GAMS (2), XPRESS (2), CELCAT (1), AMPL (1), and Google OR-Tools CP-SAT (1) and identify that CPLEX is the most frequently used integer programming solver. We explored the uses of machine learning algorithms and the hybrid solutions of combining the integer programming and machine learning algorithms in higher education timetabling solutions. We also identify areas for future work, which includes an emphasis on using integer programming algorithms in other industrial areas, and using machine learning models for university timetabling to allow data-driven solutions.",
-        "annotation": "TLDR: This study analyses 95 integer programming-based models developed for solving university timetabling problems, covering relevant research from 1990 to 2023, to provide insights into the evolution of these algorithms and their impact on improving university scheduling.",
-        "author": "Gu, Xin and Krish, Muralee and Sohail, Shaleeza and Thakur, Sweta and Sabrina, Fariza and Fan, Zongwen",
-        "copyright": "https://creativecommons.org/licenses/by/4.0/",
-        "doi": "10.3390/computation13010010",
-        "issn": "2079-3197",
-        "journal": "Computation",
-        "langid": "english",
-        "month": "jan,",
-        "number": "1",
-        "pages": "10",
-        "shorttitle": "From Integer Programming to Machine Learning",
-        "title": "From Integer Programming to Machine Learning: A Technical Review on Solving University Timetabling Problems",
+    "f7fc2e294ef23c1167ec047339a997964b7b8a3d": {
+        "abstract": "",
+        "author": "Khalid Shaker and S. Abdullah and Arwa Alqudsi and H. Jalab",
+        "doi": "10.1007/978-3-642-41299-8_36",
+        "title": "Hybridizing Meta-heuristics Approaches for Solving University Course Timetabling Problems",
         "type": "article",
-        "urldate": "2025-04-22",
-        "volume": "13",
-        "year": "2025"
+        "url": "https://www.semanticscholar.org/paper/f7fc2e294ef23c1167ec047339a997964b7b8a3d",
+        "year": "2013"
     },
-    "haiderGeneticDeepReinforcement2024": {
-        "address": "Beijing China",
-        "author": "Haider, Sami Ahmed and Ahmad, Khwaja Mutahir and Zahid, Adnan and AlGhamdi, Azzah and Keshta, Ismail and Soni, Mukesh",
-        "booktitle": "Proceedings of the 2024 {{International Conference}} on {{Artificial Intelligence}} and {{Teacher Education}}",
-        "doi": "10.1145/3702386.3702398",
-        "isbn": "979-8-4007-1013-1",
-        "langid": "english",
-        "month": "oct,",
-        "pages": "117--124",
-        "publisher": "ACM",
-        "title": "Genetic and {{Deep Reinforcement Learning-Based Intelligent Course Scheduling}} for {{Smart Education}}",
-        "type": "inproceedings",
-        "urldate": "2025-05-06",
-        "year": "2024"
-    },
-    "mikkelsenParallelizedMatheuristicInternational2022": {
-        "abstract": "The International Timetabling Competition 2019 (ITC 2019) presents a novel and generalized university timetabling problem composed of traditional class time and room assignment and student sectioning. In this paper, we present a parallelized matheuristic tailored to the ITC 2019 problem. The matheuristic is composed of multiple methods using the graph-based mixed-integer programming (MIP) model defined for the ITC 2019 problem by Holm et al. (A graph-based MIP formulation of the International Timetabling Competition 2019. J Sched, 2022. https://doi.org/10.1007/s10951-022-00724-y ). We detail all methods included in the parallelized matheuristic and the collaboration between them. The parallelized matheuristic includes two methods for producing initial solutions and uses a fix-and-optimize matheuristic to improve solutions. Additionally, the method uses the full MIP model to calculate lower bounds. We describe how the methods perform collaboratively through solution sharing, and a diversification scheme invoked when the search stagnates. Furthermore, we explain how we decompose the problem for instances with a large number of students. We evaluate components of the parallelized matheuristic using the 30 benchmark instances of the ITC 2019. The complete parallelized matheuristic performs well, even solving some instances to proven optimality. The presented method is the winning algorithm of the competition, further demonstrating its quality.",
-        "annotation": "TLDR: The complete parallelized matheuristic performs well, even solving some instances to proven optimality, and is the winning algorithm of the ITC 2019, further demonstrating its quality.",
-        "author": "Mikkelsen, Rasmus {\\O} and Holm, Dennis S",
-        "copyright": "2022 The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature",
-        "doi": "10.1007/s10951-022-00728-8",
-        "issn": "1099-1425",
+    "fd86d59c0e9e9f6b1accf491e65c900c99cc2353": {
+        "abstract": "",
+        "author": "Alexandre Lemos and Pedro T. Monteiro and I. Lynce",
+        "doi": "10.1007/s10951-021-00695-6",
         "journal": "Journal of Scheduling",
-        "langid": "english",
-        "number": "4",
-        "pages": "429--452",
-        "publisher": "Springer",
-        "title": "A parallelized matheuristic for the International Timetabling Competition 2019",
+        "pages": "371 - 390",
+        "title": "Introducing UniCorT: an iterative university course timetabling tool with MaxSAT",
         "type": "article",
-        "urldate": "2025-04-25",
+        "url": "https://www.semanticscholar.org/paper/fd86d59c0e9e9f6b1accf491e65c900c99cc2353",
         "volume": "25",
-        "year": "2022"
-    },
-    "mullerRealworldUniversityCourse2024": {
-        "abstract": "The paper discusses the organization of the International Timetabling Competition (ITC 2019), which intends to motivate further research on complex university course timetabling problems coming from practice. Thanks to the UniTime timetabling system, we have collected a strong set of benchmark instances with diverse characteristics for the competition. The key novelty lies in the combination of student sectioning with standard time and room assignment of particular course events. The paper analyzes the real-world course timetabling problems present in the competition. The characteristics of thirty competition instances are described together with their representative features, which are discussed institution by institution. The existing solvers are described and compared based on their competition, current, and time-limited results whenever available. As of October 2023, the competition website has about 490 registered users from 66 countries worldwide and is kept up to date with new results.",
-        "author": "M{\\\"u}ller, Tom{\\'a}{\\v s} and Rudov{\\'a Hana and M{\\\"u}llerov{\\'a Zuzana",
-        "copyright": "2024 The Author(s)",
-        "doi": "10.1007/s10951-023-00801-w",
-        "issn": "1099-1425",
-        "journal": "Journal of Scheduling",
-        "langid": "english",
-        "month": "apr,",
-        "pages": "1--21",
-        "publisher": "Springer",
-        "title": "Real-World University Course Timetabling at the International Timetabling Competition 2019",
-        "type": "article",
-        "urldate": "2025-04-24",
-        "year": "2024"
-    },
-    "parkScheduleNetLearnSolve2021": {
-        "abstract": "We propose ScheduleNet, a RL-based real-time scheduler, that can solve various types of multi-agent scheduling problems. We formulate these problems as a semi-MDP with episodic reward (makespan) and learn ScheduleNet, a decentralized decision-making policy that can effectively coordinate multiple agents to complete tasks. The decision making procedure of ScheduleNet includes: (1) representing the state of a scheduling problem with the agent-task graph, (2) extracting node embeddings for agent and tasks nodes, the important relational information among agents and tasks, by employing the type-aware graph attention (TGA), and (3) computing the assignment probability with the computed node embeddings. We validate the effectiveness of ScheduleNet as a general learning-based scheduler for solving various types of multi-agent scheduling tasks, including multiple salesman traveling problem (mTSP) and job shop scheduling problem (JSP).",
-        "archiveprefix": "arXiv",
-        "author": "Park, Junyoung and Bakhtiyar, Sanjar and Park, Jinkyoo",
-        "doi": "10.48550/arXiv.2106.03051",
-        "eprint": "2106.03051",
-        "keywords": "Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Computer Science - Multiagent Systems,Computer Science - Systems and Control,Electrical Engineering and Systems Science - Systems and Control",
-        "month": "jun,",
-        "number": "arXiv:2106.03051",
-        "primaryclass": "cs",
-        "publisher": "arXiv",
-        "shorttitle": "ScheduleNet",
-        "title": "ScheduleNet: Learn to Solve Multi-Agent Scheduling Problems with Reinforcement Learning",
-        "type": "misc",
-        "urldate": "2025-05-06",
         "year": "2021"
-    },
-    "xiaoDynamicUniversityCourse2024": {
-        "abstract": "University Course Timetabling Problem (UCTP) is a significant resource allocation challenge with NP-hard characteristics. As problem sizes increase, finding an optimal solution becomes increasingly complex. To address this, we propose an automated planning method using Reinforcement Learning (RL), which treats UCTP as a series of dynamic decision-making tasks. The RL agent acts as an automated planner, operating in a simulated environment that reflects the complexity and constraints of a university course. It adapts to changes in the timetable by evaluating the outcomes of its actions, continuously refining its strategy to identify and implement the most effective actions. During the explore phase, the agent tests new strategies using a priority-driven reward system and an experience replay mechanism. This approach replays high-value actions, enhancing solution diversity and reducing the search space. In the exploit phase, the agent leverages its accumulated knowledge to apply proven effective strategies. It also incorporates unbiased external evaluations to avoid local optima and ensure global optimization of its strategy. Extensive testing on multiple real-world datasets shows that our automated planning framework consistently outperforms existing methods in various complex scheduling scenarios. This confirms its effectiveness and practicality in meeting diverse scheduling needs.",
-        "annotation": "TLDR: An automated planning method using Reinforcement Learning (RL), which treats UCTP as a series of dynamic decision-making tasks, which consistently outperforms existing methods in various complex scheduling scenarios and confirms its effectiveness and practicality in meeting diverse scheduling needs.",
-        "author": "Xiao, Yanan and Li, XiangLin and Jiang, Lu and Wang, Pengfei and Wang, Kaidi and Luo, Na",
-        "booktitle": "2024 IEEE International Conference on Data Mining (ICDM)",
-        "doi": "10.1109/ICDM59182.2024.00059",
-        "issn": "2374-8486",
-        "keywords": "Complexity theory,Conferences,course timetable,Data mining,Decision making,Optimization,Planning,Refining,reinforcement learning,Reinforcement learning,Resource management,Testing",
-        "month": "dec,",
-        "pages": "520--529",
-        "shorttitle": "Towards Dynamic University Course Timetabling Problem",
-        "title": "Towards Dynamic University Course Timetabling Problem: An Automated Approach Augmented via Reinforcement Learning",
-        "type": "inproceedings",
-        "urldate": "2025-05-06",
-        "year": "2024"
-    },
-    "zhangEduPlannerLLMBasedMultiAgent2025": {
-        "abstract": "Large Language Models (LLMs) have significantly advanced smart education in the Artificial General Intelligence (AGI) era. A promising application lies in the automatic generalization of instructional design for curriculum and learning activities, focusing on two key aspects: (1) Customized Generation: generating niche-targeted teaching content based on students' varying learning abilities and states, and (2) Intelligent Optimization: iteratively optimizing content based on feedback from learning effectiveness or test scores. Currently, a single large LLM cannot effectively manage the entire process, posing a challenge for designing intelligent teaching plans. To address these issues, we developed EduPlanner, an LLM-based multi-agent system comprising an evaluator agent, an optimizer agent, and a question analyst, working in adversarial collaboration to generate customized and intelligent instructional design for curriculum and learning activities. Taking mathematics lessons as our example, EduPlanner employs a novel Skill-Tree structure to accurately model the background mathematics knowledge of student groups, personalizing instructional design for curriculum and learning activities according to students' knowledge levels and learning abilities. Additionally, we introduce the CIDDP, an LLM-based five-dimensional evaluation module encompassing clarity, Integrity, Depth, Practicality, and Pertinence, to comprehensively assess mathematics lesson plan quality and bootstrap intelligent optimization. Experiments conducted on the GSM8K and Algebra datasets demonstrate that EduPlanner excels in evaluating and optimizing instructional design for curriculum and learning activities. Ablation studies further validate the significance and effectiveness of each component within the framework. Our code is publicly available at https://github.com/Zc0812/Edu\\_Planner",
-        "archiveprefix": "arXiv",
-        "author": "Zhang, Xueqiao and Zhang, Chao and Sun, Jianwen and Xiao, Jun and Yang, Yi and Luo, Yawei",
-        "doi": "10.48550/arXiv.2504.05370",
-        "eprint": "2504.05370",
-        "keywords": "Computer Science - Artificial Intelligence",
-        "langid": "american",
-        "month": "apr,",
-        "number": "arXiv:2504.05370",
-        "primaryclass": "cs",
-        "publisher": "arXiv",
-        "shorttitle": "EduPlanner",
-        "title": "EduPlanner: LLM-Based Multi-Agent Systems for Customized and Intelligent Instructional Design",
-        "type": "misc",
-        "urldate": "2025-04-22",
-        "year": "2025"
     }
 }});
