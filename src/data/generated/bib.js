@@ -120,7 +120,7 @@
         "doi": "10.1016/j.eswa.2020.113943",
         "issn": "0957-4174",
         "journal": "Expert Systems with Applications",
-        "keywords": "methods: survey, method: Meta-heuristic algorithms, benchmarks: XHSTT, classes: HTT",
+        "keywords": "methods: survey, methods: Meta-heuristic algorithms, benchmarks: XHSTT, classes: HTT",
         "month": "mar,",
         "pages": "113943",
         "title": "A Survey of the State-of-the-Art of Optimisation Methodologies in School Timetabling Problems",
