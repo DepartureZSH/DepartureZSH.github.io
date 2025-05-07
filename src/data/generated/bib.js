@@ -62,7 +62,7 @@
     "b5bb66c51225ed5310fa7de6e4e059663eaf1b03": {
         "abstract": "University course timetabling belongs to classical problems which have been studied for many years by many researchers. This paper will outline existing research and emphasize new research directions and challenges in this area. It is clear that the organization of international competitions has a high impact on the timetabling research. We intend to discuss the organization of the new International Timetabling Competition (ITC 2019) with the aim to motivate further research on complex university course timetabling problems coming from practice. Our goal is the creation of rich real-world data sets. Thanks to the UniTime timetabling system, we can collect a strong set of data with diverse characteristics which we will discuss in the paper. The key novelty lies in the combination of student sectioning together with standard time and room assignment of events in courses. To make the problems more attractive, we remove some of the less important aspects of the real-life data while retaining the computational complexity of the problems.",
         "author": "Tom\u00e1s M\u00fcller and Hana Rudov\u00e1 and Zuzana M\u00fcllerov\u00e1",
-        "keywords": "University course timetabling, Competition, Real-world problems methods: dataset, benchmarks: ITC2019, classes: UTT",
+        "keywords": "methods: dataset, benchmarks: ITC2019, classes: UTT",
         "title": "University course timetabling and International Timetabling Competition 2019",
         "type": "article",
         "url": "https://www.semanticscholar.org/paper/b5bb66c51225ed5310fa7de6e4e059663eaf1b03",
