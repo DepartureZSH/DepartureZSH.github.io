@@ -75,7 +75,7 @@
         "booktitle": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
         "doi": "10.1145/3313831.3376518",
         "isbn": "978-1-4503-6708-0",
-        "keywords": "methods: reinforcement learning, methods: Adaptive Learning, benchmark: Online Education, classes: other timetabling task",
+        "keywords": "methods: reinforcement learning, methods: Adaptive Learning, benchmarks: online education, classes: other timetabling task",
         "langid": "english",
         "month": "apr,",
         "pages": "1--12",
